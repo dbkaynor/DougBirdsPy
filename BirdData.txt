@@ -1,0 +1,58 @@
+
+[SizeVar]
+0 Not Set
+1 Huge (Like Swan 30"+)
+2 Very large (Like Double-crested Cormorant 25"-34")
+3 Large (Like Hawk 21"-29")
+4 Medium large (Peregrine Falcon 17"-24)
+5 Medium (Like crow 15"-20")
+6 Medium small (Like flicker 11-17)
+7 Small (Like Robin 7"-14")
+8 Very small (Like Sparrow 5"-9")
+9 Tiny (Like Hummingbird <5)
+
+[BillShapeVar]
+0 Not Set
+1 Thin
+2 Short pointed
+3 Long pointed
+4 Conical
+5 Duck
+6 Tube nosed
+7 Hooked
+8 Huge
+9 Straight down curved
+10 Wedge down curve
+11 Triangular
+12 Knobbed
+13 Spooned
+14 Straight point tip
+15 Very thick
+16 Short hooked
+17 Crossed bill
+
+[BillColorVar]
+0 Not Set
+1 Yellow bill
+2 Orange bill
+
+[HeadColorVar]
+0 Not Set
+1 White
+2 Dark brown
+3 Yellow
+4 Stripped
+5 Mottled
+
+[BackColorVar]
+0 Not Set
+1 White
+2 Black
+3 Gray
+4 Brown
+5 Blue
+6 Mottled Black/White
+7 Mottled Brown/Gray
+
+[birds]
+1-12-0-0-0

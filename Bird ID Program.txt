@@ -1,0 +1,2863 @@
+Bird ID Program
+
+Base Questions 1-1 to 9-9
+Question 1 Size
+1 = Huge, Like Swan  30”+
+2 = Very Large, Like Double-crested Cormorant 25” – 34”
+3 = Large, Like Hawk  21” – 29”
+4 = Medium Large, Like Peregrine Falcon 17” – 24”
+5 = Medium, Like Crow  15” – 20”
+6 = Medium Small, Like Flicker  11” – 17”
+7 = Small, Like Robin  7” – 14”
+8 = Very Small, Like Sparrow 5” – 9”
+9 = Tiny, Like Hummingbird <5”
+
+Question 2 Bill Shape New
+1 = Thin
+2 = Short Pointed
+3 = Long Pointed
+4 = Conical
+5 = Duck
+6 = Tube Nosed
+7 = Hooked
+8 = Huge
+9 = Straight down curved
+10 = Wedge down curve
+11 = Triangular
+12 = Knobbed
+13 = Spooned
+14 = Straight Point tip
+15 = Very thick
+16 = Short hooked
+17 = Crossed bill
+
+Level 2 Questions
+1
+1-2 Head New
+1 = White
+15 = Dark Brown = Blue-footed Booby J
+23 = Yellow = Northern Gannet A
+25 = Striped = Blue-footed Booby A
+26 = Mottled
+
+1-2-1
+1 = Bill Yellow = Masked Booby A
+2 = Bill Orange = Nazca Booby A
+
+1-2-26
+1 = White Collar = Masked Booby J
+2 = Dark under wings = Northern Gannet J
+3 = Non of the above = Nazca Booby J
+
+1-3 Back New
+1 = White
+2 = Black
+3 = Gray
+4 = Brown = Common Crane J
+6 = Blue = Great Blue Heron
+9 = Mottled Black/White = Yellow-billed Loon
+15 = Mottled Brown/Gray = Sandhill Crane J
+
+1-3-1
+1 = All White with Black Legs = Great Egret
+2 = All White with Yellow Legs = Great Blue Heron M
+3 = Black, red and white face = Whooping Crane A
+4 = Golden brown face = Whooping Crane J
+
+1-3-2
+1 = Black = Anhinga A
+2 = Tan = Anhinga J
+
+1-3-3
+1 = Grayish brown = Yellow-billed Loon W
+2 = Black capped = Great Blue Heron J
+3 = Black capped with white stripe = Gray Heron
+4 = Gay and red crowned = Sandhill Crane
+5 = Black and red crowned = Common Crane
+
+1-4
+1 = Reddish Head = Male Wild Turkey
+2 = Grayish Head = Female Wild Turkey
+
+1-5
+1 = Brown = Tiaga Bean-Goose
+2 = Black = Canada Goose
+3 = Straight White = Tundra Swan
+4 = Curved Neck = Mute Swan
+
+1-6
+1 = Gray Headed = Light-mantled Albatross
+2 = Pink Billed = Short-tailed Albatross
+3 = White Back = Wandering Albatross
+4 = Wide black leading edge on under wing = Black-browed Albatross
+5 = Black back and narrow leading edge on under wing = Shy Albatross
+
+1-7 Head New
+1 = White
+7 = Gray = California Condor J
+10 = Black
+13 = Brown
+19 = Red = California Condor A
+
+1-7-1Tail Color
+1 = White = Bald Eagle A
+2 = Black = Magnificent Frigatebird J
+
+1-7-10
+1 = Forked tail, black breast, defused wingbar = Magnificent Frigatebird M
+2 = Forked tail, white breast, black chin = Magnificent Frigatebird F
+3 = Forked tail, black breast, stronger wingbar = Great Frigatebird M
+4 = Forked tail, white breast, white chin = Great Frigatebird F
+5 = Short tail, dark overall = Brandt’s Cormorant A
+6 = White shoulder = Steller's Sea-Eagle M
+
+1-7-13
+1 = Long neck, Black belly = Great Cormorant A
+2 = Long neck, White belly = Great Cormorant J
+3 = Long neck, brown belly = Brandt’s Cormorant J
+4 = Short neck, brown underwing = Golden Eagle A
+5 = Short neck, brown underwing with white patch = Golden Eagle J
+6 = Short neck, brown mottled underwing = Bald Eagle J
+
+1-8
+1 = White head, yellow bill = American White Pelican
+2 = Multi colored head, gray bill = Brown Pelican
+3 = Spoon shaped bill = Roseate Spoonbill
+4 = Grayish head, slightly down curved bill = Wood Stork
+5 = Black Head, thick heavy bill = Jabiru
+6 = Pink head, thick down curved bill = American Flamingo
+7 =White head, thick down curved bill = American Flamingo J
+
+1-10
+3 = White body, red bill = Red-tailed Tropicbird A
+4 = Black and white barred back and gray bill = Red-tailed Tropicbird J
+5 = Black and white barred back and red bill = Red-billed Tropicbird A
+6 = Black and white barred back and yellow bill = Red-billed Tropicbird J
+
+1-11
+1 = White body, gray bill = Trumpeter Swan
+2 = White body, yellow bill = Whooper Swan
+
+2
+2-2
+1 = Red Feet = Red-footed Booby
+2 = Brown Neck and White Belly = Brown Booby
+3 = Brown Neck and Gray Belly = Red-footed Booby J
+4 = Dark Brown Neck and Belly = Brown Booby J
+
+2-3 Leg Type
+1 = Long legged wading bird
+2 = Short legged swimming bird
+
+2-3-1
+1 = Body brown and white striped = American Bittern
+2 = Black Cap on head = Bare-throated Tiger-Heron
+3 = All white = Reddish Egret M
+4 = Dark chestnut head and neck = Reddish Egret A
+5 = Light chestnut head and neck = Reddish Egret J
+
+2-3-2
+1 = White flank patch, blue throat = Arctic Loon S
+2 = White flank patch white throat = Arctic Loon W
+3 = No white flank patch blue throat = Pacific Loon S
+4 = Brown chin strap = Pacific Loon W
+5 = Dark head = Common Loon S
+6 = No white flank, all white neck = Common Loon W
+
+2-4
+1 = Long narrow tail = Ring-necked Pheasant
+2 = Reddish brown body and rounded tail = Himalayan Snowcock
+3 = Grayish body and Pointed diamond tail = Greater Sage-Grouse
+
+2-5 Back New
+1 = White
+2 = Black
+3 = Gray
+4 = Brown
+10 = Mottled Black/Brown = Fulvous Whistling-Duck
+
+2-5-1
+1 = Orange bill with smile line = Snow Goose
+2 = Orange bill with no smile line = Ross’s Goose
+
+2-5-2
+1 = White face = Ross’s Goose B
+2 = Black face = Muscovy Duck
+
+2-5-3
+1 = Black head = Brant
+2 = Gray head = Emperor Goose J
+3 = White head with black bars = Bar-headed Goose
+4 = Half black and half white neck = Emperor Goose A
+5 = Black neck and white face = Barnacle Goose
+
+2-5-4
+1 = Orange bill with white line at base = Greater White-fronted Goose
+2 = Orange bill with no white line at base = Graylag Goose
+3 = Orange and black bill = Tundra Bean Goose
+4 = White head = Snow Goose M
+5 = Black Bill = Cackling Goose
+6 = Orange eye patch = Egyptian Goose
+7 = Red bill = Black-bellied Whistling-Duck A
+8 = Gray bill = Black-bellied Whistling-Duck  J
+
+2-6
+1 = Dark Body = Black-footed Albatross
+2 = Dark patches under wing = Laysan Albatross
+3 = White underwing with black boarders = Yellow-nosed Albatross
+
+2-7
+1 = Forked tail, red neck pouch = Lesser Frigatebird M
+2 = Forked tail, no red neck pouch = Lesser Frigatebird F
+3 = White tail = White-tailed Eagle
+4 = Red head = Turkey Vulture
+5 = Red face = Red-faced Cormorant A
+6 = Black body, yellow throat patch = Double-crested Cormorant A
+7 = Gray body, yellow throat patch = Double-crested Cormorant J
+8 = Dark brown body, yellow bill = Red-faced Cormorant J
+
+2-10
+1 = Long thin tail = White-tailed Tropicbird A
+2 = Gray and white stripped back = White-tailed Tropicbird J
+
+2-14
+1 = Blackish Back and Wings = Great Black-backed Gull A
+2 = Mottled Back and Wings = Great Black-backed Gull J
+
+3
+3-1
+1 = White body = White Ibis A
+2 = Red body = Scarlet Ibis A
+3 = Brown body with red bill = White Ibis J
+4 = Brown body with white spots on upper body = Limpkin
+5 = Brown and white mottled on coastal BC or Alaska = Far Eastern Curlew
+6 = Cinnamon-brown above Interior NA and coastal OR, CA + TX = Long-billed Curlew
+
+3-3
+1 = Short-necked swimming bird
+2 = Long-necked swimming bird
+3 = white-bodied wading bird
+4 = colored body wading bird
+5 = Desert ground bird = Greater Roadrunner
+
+3-3-1
+1 = Gray head, red throat = Red-throated Loon
+2 = Gray head, white throat = Red-throated Loon W
+3 = Dark green head = Common Merganser
+4 = Brown head = Common Merganser F
+
+3-3-2
+1 = Eye in black = Western Grebe
+2 = Eye in white = Clark’s Grebe
+
+3-3-3
+1 = Thick neck with black cap = Black-crowned Night-Heron A
+2 = Gray bill with black tip = Little Blue Heron J
+3 = Black bill, shaggy crest = Snowy Egret
+4 = Black bill, two feather plume = Little Egret
+5 = Orange bill = Chinese Egret
+6 = Yellow bill with black tip= Intermediate Egret
+
+3-3-4
+1 = Thick light brown neck = Black-crowned Night-Heron J
+2 = Thick gray neck = Yellow-crowned Night-Heron
+3 = Thick brown speckled neck = Yellow-crowned Night-Heron J
+4 = Blue and white striped neck = Tricolored Heron
+5 = Brown and white striped neck = Tricolored Heron BJ
+6 = Blue body, brown neck = Little Blue Heron
+7 = Blue body, blue neck = Western Reef-Heron
+
+3-5
+1 = Orange bill with white line at base = Lesser White-fronted Goose
+2 = Gray and orange bill = Pink-footed Goose
+3 = Black body = Muscovy Duck F
+4 = Long pin tail = Northern Pintail M
+5 = Cinnamon body = Ruddy Shelduck
+6 = Black head, red bill = Common Shelduck
+
+3-7 Back Color
+1 = White = Gyrfalcon M
+2 = Black
+3 = Gray
+4 = Brown
+11 = Mottled White/Brown = Osprey J
+
+3-7-2
+1 = Yellow face patch = Neotropic Cormorant A
+2 = Red face patch = Pelagic Cormorant A
+3 = Black body with gray-white wing tips = Black Vulture
+4 = Long forked tail = Swallow-tailed Kite
+5 = Black Cap = Crested Caracara
+
+3-7-3
+1 = Red eye = Northern Goshawk
+2 = Black eye = Gyrfalcon
+
+3-7-4
+1 = Long neck, yellow face patch = Neotropic Cormorant J
+2 = Long neck, no face patch = Pelagic Cormorant J
+3 = White head with dark wide eyeline = Osprey
+4 = White with brown spots underside, short round wings = Northern Goshawk F
+5 = Reddish brown back = Ferruginous Hawk A
+6 = White underside, long rounded wings = Ferruginous Hawk J
+7 = Pointed wings, all white underside = Gyrfalcon J
+
+3-9
+Swallow-tailed Gull
+
+3-11
+1 = Black side = Common Eider
+2 = Brown side = Common Eider F
+
+3-14 Head New
+1 = White
+10 = Black = Common Raven
+16 = Brown Spots
+26 = Mottled
+
+3-14-1 Leg New
+4 = Pink
+6 = Yellow
+
+3-14-1-4
+1 = Little black on wingtips = Thayer's Gull
+2 = White wingtips = Glaucous Gull
+3 = Back and wingtips light gray = Glaucous Winged Gull
+4 = Dark back and wingtips, dark eye = Western Gull
+5 = Dark back and wingtips, yellow eye = Slaty-backed Gull
+
+3-14-1-6
+1 = Light gray back = Herring Gull
+2 = Lower bill tipped red = Yellow-legged Gull
+3 = Wingtips slightly darker than back = Yellow-footed Gull
+4 = Back and wingtips all black = Kelp Gull
+5 = Mottled wing area = Kelp Gull J1
+
+3-14-16
+1 = Gray back, all black wingtips = Herring Gull W
+2 = Mottled back = Yellow-legged Gull J
+3 = Little black on wingtips = Thayer's Gull W
+4 = Black wings and wingtips = Slaty-backed Gull W
+
+3-14-26 Juvenile Gull Under Wings
+1 = Dark under wings = Herring Gull J
+2 = Light under wings = Glaucous Gull J
+
+3-14-26-1
+1 = Brown legs = Western Gull J
+2 = White belly = Yellow-footed Gull J
+3 = Brown belly, Pink legs = Kelp Gull J2
+
+3-14-26-2
+1 = All dark wing tip on top = Herring Gull J
+2 = Dark patch around eye= Thayer's Gull J
+3 = Two colored bill = Glaucous Gull J
+4 = Solid tan outer wing = Glaucous-winged Gull J
+5 = White chin, all white bill = Slaty-backed Gull J
+
+3-16
+1 = Mostly Gray = Great gray Owl
+2 = Mostly white = Snowy Owl
+
+4
+4-1
+1 = Brown mottled body = Eurasian Curlew
+2 = Red face with white boarder and red eye = White-faced Ibis A
+3 = Red face and red eye = White-faced Ibis J
+4 = Blue-gray face with white boarder and dark eye = Glossy Ibis A
+5 = Gray face and dark eye = Glossy Ibis J
+
+4-3 Head New
+1 = White
+2 = White with Black Cap
+10 = Black
+11 = Black with red tuft = Ivory-billed Woodpecker M
+13 = Brown = Red-breasted Merganser F
+
+4-3-1
+1 = Buffy on head, breast and wing = Cattle Egret
+2 = All white = Cattle Egret J
+
+4-3-2
+1 = All orange-yellow bill, black cap = Royal Tern
+2 = All orange-yellow bill, gray cap = Royal Tern W
+3 = Black tip on bill, black cap = Caspian Tern
+4 = Black tip on bill, gray cap = Caspian Tern W
+
+4-3-10
+1 = Red neck, on water = Red-necked Grebe
+2 = Yellow bill, on water = Red-necked Grebe W
+3 = Red bill, on water = Red-breasted Merganser M
+4 = White bill = Ivory-billed Woodpecker F
+
+4-4
+1 = Long tail feathers = Ring-necked Pheasant F
+2 = No black belly, map = Sooty Grouse
+3 = No black belly, map = Dusky Grouse
+4 = Black belly, map = Greater Sage Grouse F
+5 = Black belly, map = Gunnison Sage-Grouse
+6 = Bluish body = Purple Swamphen
+
+4-5 Body and Bill
+1 = Mottled brown body, mostly yellow bill
+2 = Mottled brown body, mostly gray bill
+3 = Mostly gray body, mostly yellow bill = Mallard M
+4 = Mostly gray body, mostly gray bill
+5 = Mostly chestnut body = Northern Shoveler M
+6 = White Body = Long Tailed Duck M
+
+4-5-1
+1 = Greenish blue speculum patch = Mottled Duck
+2 = Purple speculum patch = American Black Duck
+3 = White speculum patch = Gadwall F
+
+4-5-2
+1 = Gray bill with yellow tip and base = Mallard F
+2 = Gray bill with yellow tip = Eastern Spot-billed Duck
+3 = All gray bill, black speculum patch = Falcated Duck F
+4 = Gray bill with black tip = Eurasian Wigeon F
+5 = All gray bill, brown speculum patch = Northern Pintail F
+6 = Gray and orange mixed color bill = Northern Shoveler F
+
+4-5-4
+1 = Brown face, black butt = Gadwall M
+2 = Brown face with wide green swath = Falcated Duck M
+3 = Red face, white mohawk = Eurasian Wigeon M
+4 = Chestnut red face = Canvasback M
+5 = Brown face, brown butt = Canvasback F
+
+4-6
+1 = Blackish Body = White-chinned Petrel
+2 = Dark face hides eye = Pink-footed Shearwater
+3 = Light face shows eye = Streaked Shearwater
+
+4-7 Number of Large Dark Tail Bands
+1 = 1
+2 = 2 = Zone-tailed Hawk
+3 = 3 = Crane Hawk
+4 = 4 = Collared Forest-Falcon
+5 = 0
+
+4-7-1 Flight or Perched
+Is the bird in flight?
+Y = 4-7-1 F
+N = 4-7-1 P
+
+4-7-5 Flight or Perched
+Is the bird in flight?
+Y = 4-7-5 F
+N = 4-7-5 P
+
+4-7-1 F
+1 = Black linings and primaries underwings = Common Black-Hawk
+2 = Mottled underside, short round wings = Common Black-Hawk J
+3 = Chestnut wing linings = Harris's Hawk
+4 = Mottled chestnut wing linings = Harris's Hawk J
+5 = Distinct dark shoulder patch = Rough-legged Hawk
+6 = Distinct dark shoulder patch, heavy barred breast = Rough-legged Hawk J
+7 = White wing linings, small shoulder patch = White-tailed Hawk
+8 = Dark wing linings, white portion of tail clean white = White-tailed Hawk M
+
+4-7-1 P
+1 = Black body, white patch at base of bill = Common Black-Hawk
+2 = Mottled body, narrow band on tail, bare legs = Common Black-Hawk J
+3 = Black body, chestnut patches on shoulders and thighs = Harris's Hawk
+4 = Mottled body, wide band on tail, bare legs = Harris's Hawk J
+5 = Mottled body, legs are feathered to feet = Rough-legged Hawk
+6 = Heavy barring on breast = Rough-legged Hawk J
+7 = Gray body, chestnut patches on shoulders = White-tailed Hawk
+8 = Black body, chestnut patches on shoulders black thighs = White-tailed Hawk M
+
+4-7-5 F
+1 = Red tail = Red-tailed Hawk
+2 = Patagial band on wing or red tail = Red-tailed Hawk DM
+3 = Patagial band on wing = Red-tailed Hawk J
+4 = Dark breast collar = Swainson's Hawk
+5 = Multi light bands on tail with darker subterminal band = Swainson's Hawk M
+6 = heavily mottled underside, breast color not complete = White-tailed Hawk J
+
+4-7-5 P
+1 = Red tail, incomplete breast collar = Red-tailed Hawk
+2 = Dark overall, white baring on breast = Red-tailed Hawk DM
+3 = Mottled leg feathers = Red-tailed Hawk J
+4 = Dark breast collar = Swainson's Hawk
+5 = Dark sooty brown overall = Swainson's Hawk M
+6 = Tan leg feathers = White-tailed Hawk J
+
+4-9 Neck New
+2 = Black
+3 = Brown
+4 = Yellow
+
+4-9-2
+1 = Black, white and blue = Black-billed Magpie
+2 = All black = Chihuahuan Raven
+
+4-9-3
+1 = Long tail with white end band, land bird = Plain Chachalaca
+2 = Tail wedged, reddish tinge to back = Great Skua
+3 = Tail wedged, no reddish tinge to back = South Polar Skua
+4 = Two longer rounded feathers in tail = Pomarine Jaeger M
+5 = Two somewhat longer pointed feathers in tail = Parasitic Jaeger M
+
+4-9-4
+1 = Two longer rounded feathers in tail = Pomarine Jaeger
+2 = Two somewhat longer pointed feathers in tail = Parasitic Jaeger
+3 = Two very long pointed feathers in tail = Long-tailed Jaeger
+
+4-11
+1 = Blue gray on head = King Eider
+2 = Light neck = King Eider F
+3 = Green on head = Spectacled Eider
+4 = Light area around the eye = Spectacled Eider F
+5 = White secondaries = White-winged Scoter F
+6 = Vertical white patch at base of bill = Surf Scoter F
+
+4-12
+1 = Black nape = White-winged Scoter
+2 = White nape = Surf Scoter
+
+4-14 Back New
+2 = Black
+3 = Gray
+9 = Mottled Black/White = Belcher's Gull J
+11 = Mottled White/Brown
+
+4-14-2
+1 = Black bill, black legs = Heermann's Gull J
+2 = White head, yellow bill with red and black tip = Belcher's Gull
+3 = Dark head, white body = Belcher's Gull W
+4 = Yellow bill with red dot = Lesser Black-backed Gull
+
+4-14-3 Legs New
+1 = Black = Heermann's Gull
+4 = Pink
+6 = Yellow
+
+4-14-3-4
+1 = White head = Iceland Gull
+2 = Brown dots on head = Iceland Gull W
+
+4-14-3-6
+1 = Black tail, white head = Black-tailed Gull
+2 = Black tail, mottled head = Black-tailed Gull W
+3 = Dark eye, white head = California Gull
+4 = Dark eye, mottled head = California Gull W
+5 = No black on bill = Lesser Black-backed Gull W
+
+4-14-11
+1 = Bi colored bill = Black-tailed Gull J
+2 = Black bill, dark wingtips = California Gull J
+3 = Black bill, light wingtips = Iceland Gull J
+
+4-16
+1 = Ear Tufts = Great Horned Owl
+2 = Barred Breast = Barred Owl
+
+5
+5-1 Belly New
+1 = White
+5 = Brown
+6 = Brown, Dark = Bar-tailed Godwit
+17 = Mottled = Marbled Godwit
+
+5-1-1
+1 = Gray legs, brown head = American Avocet
+2 = Gray legs, gray head = American Avocet W
+3 = Black legs, solid gray neck = Black-tailed Godwit W
+4 = Black legs, speckled brown neck = Bar-tailed Godwit W
+5 = White and black barred belly = Black-tailed Godwit
+
+5-1-5
+1 = Fine patterning on back, light gray-brown belly = Whimbrel
+2 = Course patterning on back, light yellow-brown belly = Bristle-thighed Curlew
+
+5-2
+Double-Striped Thick-Knee
+
+5-3 Back New
+2 = Black
+3 = Gray
+4 = Brown
+6 = Blue = Green Heron
+
+5-3-2 Chin New
+1 = White
+2 = Black
+
+5-3-2-1
+1 = Long thin wings = Black Skimmer
+2 = Black line extending from eye to neck = Common Murre W
+3 = White line between mandibles, light cheek = Thick-billed Murre W
+4 = Red crest = Pileated Woodpecker
+
+5-3-2-2
+1 = Black and white crest = Hooded Merganser
+2 = No white line between mandibles, black face  = Common Murre
+3 = White line between mandibles, dark cheek = Thick-billed Murre
+4 = All dark iridescent blue and purple body = Great-tailed Grackle
+
+5-3-3
+1 = Reddish brown head = Chinese Pond-Heron
+2 = Black cap = Elegant Tern
+3 = Gray cap = Elegant Tern W
+
+5-3-4
+1 = Long wading bird legs = Green Heron J
+2 = Swimming on the water = Hooded Merganser F
+3 = Brown overall with long tail = Great-tailed Grackle F
+
+5-4
+1 = Tail band, Grayish-brown body = Ruffed Grouse
+2 = Tail band, Reddish-brown body = Ruffed Grouse M
+3 = No tail band, dark barring on breast, solid tail = Greater Prairie-Chicken
+4 = No tail band, dark barring on breast, barred tail = Greater Prairie-Chicken F
+5 = No tail band, light barring on breast, solid tail = Lesser Prairie-Chicken
+6 = No tail band, light barring on breast, barred tail = Lesser Prairie-Chicken F
+7 = Wedge shaped tail = Sharp-tailed Grouse
+8 = Black belly = Gunnison Sage-Grouse F
+
+5-5  Back New
+2 = Black
+3 = Gray
+4 = Brown
+
+5-5-2
+1 = White band at base of bill = Ring-necked Duck
+2 = Tuft on head, gray sides = Tufted Duck
+3 = Tuft on head, brown sides = Tufted Duck F
+4 = Long thin tail = Long-tailed Duck WM
+5 = White crescent patch on face = Barrow's Goldeneye
+6 = White round patch on face = Common Goldeneye
+
+5-5-3
+1 = All Chestnut head, gray bill with black base and tip = Common Pochard
+2 = All Chestnut head, gray bill with black tip = Redhead
+3 = Iridescent green head = Greater Scaup
+4 = Iridescent blue head = Lesser Scaup
+5 = Gray head with white and chestnut patches = Harlequin Duck
+6 = Mottled brown and white head = Long Tailed Duck F
+7 = All brown head, yellow bill = Barrow's Goldeneye F
+8 = All brown head, gray bill and yellow tip = Common Goldeneye F
+
+5-5-4 Face New
+1 = Brown
+2 = Gray
+3 = Brown and White
+4 = Multi colored
+
+5-5-4-1
+1 = Base of bill black = Common Pochard F
+2 = Base of bill gray = Redhead F
+
+5-5-4-2
+1 = White mohawk = American Wigeon
+2 = All gray head = American Wigeon F
+
+5-5-4-3
+1 = Brown head with teardrop white eyeline = Wood Duck F
+2 = Brown head with dark brown cap and eyeline = Baikal Teal F
+3 = Distinct brown and white head = White-cheeked Pintail
+4 = Brown head with white by bill, white band on gray bill = Ring-necked Duck F
+5 = Brown head with white by bill and white crescent = Greater Scaup F
+6 = Brown head with white by bill and no white crescent = Lesser Scaup F
+7 = Brown head with white by bill and white dot = Harlequin Duck F
+
+5-5-4-4
+1 = Head has tuft = Wood Duck
+2 = Head has no tuft = Baikal Teal
+
+5-6 Belly New
+1 = White
+3 = Light Gray
+4 = Dark Gray
+6 = Brown Dark
+
+5-6-1
+1 = Eye in white on face = Northern Fulmar
+2 = Black line on underwing, black bill = Hawaiian Petrel
+3 = White triangles on top of wings = Buller's Shearwater
+4 = Thin black line on underwing, dark bill black tip = Wedge-tailed Shearwater
+5 = Gray head, yellow bill = Cory's Shearwater
+
+5-6-3
+1 = All gray = Northern Fulmar D
+2 = Gray wash on belly, black and white body = Great Shearwater
+
+5-6-4
+1 = Dark gray body and under wings, black bill = Short-tailed Shearwater
+2 = Dark gray body, light under wings, black bill = Sooty Shearwater
+
+5-6-6
+1 = Dark brown body and under wings, yellow bill = Parkinson's Petrel
+2 = Dark brown body and under wings, dark bill = Wedge-tailed Shearwater M
+3 = Dark gray body and under wings, mostly yellow bill = Flesh-footed Shearwater
+
+5-7 Back Color
+1 = Black
+2 = Gray
+4 = Green = Thick-billed Parrot
+5 = Brown
+
+5-7-2
+1 = Solid black breast = Snail Kite
+2 = Black breast with light white barring = Hook-billed Kite
+3 = Reddish-brown barred breast = Cooper's Hawk
+
+5-7-3
+1 = White eyeline = Northern Harrier
+2 = No white eyeline = Gray Hawk
+
+5-7-4  Number of Large Dark Tail Bands
+1 = 1
+2 = 2
+3 = 3 = Northern Harrier F
+4 = 4 =
+6 = 5+
+
+5-7-4-1
+1 = White rump, dirty bared breast = Snail Kite F
+2 = White rump, clean bared breast = Snail Kite J
+3 = Dark rump = Peregrine Falcon J
+
+5-7-4-2
+1 = Very dark head, reddish-brown barred breast = Hook-billed Kite F
+2 = White cheek, Brown cap = Hook-billed Kite J
+3 = Black moustache patch, brown and white barred breast = Broad-winged Hawk
+4 = Light head, reddish-brown barred breast = Broad-winged Hawk M
+5 = Very light outer tail feathers = Broad-winged Hawk J
+
+5-7-4-4
+1 = Long narrow tail = Cooper's Hawk F
+2 = Wide tail, red shoulder patch = Red-shouldered Hawk
+3 = Wide tail, brown shoulder = Red-shouldered Hawk J
+
+5-7-4-6
+1 = Rounds wings, straight eyeline = Gray Hawk J
+2 = Pointed wings, eyeline makes “T” = Prairie Falcon
+3 = Pointed wings, helmet Patch = Peregrine Falcon
+
+5-8
+1 = All dark body = Black Oystercatcher
+2 = Brown back and white belly = American Oystercatcher
+3 = Black back and white belly = Eurasian Oystercatcher
+
+5-9 Back New
+2 = Black
+3 = Gray
+4 = Brown = Brown Jay
+11 = Mottled White/Brown
+
+5-9-2
+1 = Land bird, all black and white = Yellow-billed Magpie
+2 = Land bird, all black, Not coastal BC, AK & Str. Juan de Fuca WA = American Crow
+3 = Land bird, all black, Coastal BC, AK, & Str. Juan de Fuca WA  = Northwestern Crow
+
+5-9-3
+1 = Black head = Laughing Gull
+2 = Black wash on head = Laughing Gull W
+3 = White head = Mew Gull
+4 = Brown spots on head = Mew Gull W
+5 = Gray head = Gray-hooded Gull
+
+5-9-11
+1 = Black legs = Laughing Gull J
+2 = Gray wash on back of head = Mew Gull J
+
+5-11
+1 = Black butt = Steller's Eider
+2 = All brown head and neck = Steller's Eider F
+
+5-12
+1 = All black = Black Scoter
+2 = Tan cheek and front of neck= Black Scoter F
+
+5-14 Head New
+1 = White
+3 = White / Black Dot = Black-legged Kittiwake J
+6 = White / Black Wash = Black-legged Kittiwake W
+16 = Brown Spots
+
+5-14-1
+1 = Yellow bill = Black-legged Kittiwake
+2 = Gray bill with yellow tip = Ivory Gull
+3 = Yellow bill with black ring near tip = Ring-billed Gull
+
+5-14-16
+1 = Gray back = Ring-billed Gull W
+2 = Mottled brown back = Ring-billed Gull J
+
+5-15
+Razorbill
+
+5-16
+1 = White face = Barn Owl
+2 = Spotted breast = Short-eared Owl
+3 = Ear tufts, chestnut colored face = Long-eared Owl
+4 = Brown vertical bars on breast = Spotted Owl
+5 = Ear tufts, football shaped body = Stygian Owl
+
+6
+6-1 Bill Shape
+1 = Straight
+2 = Up curved
+3 = Down curved
+
+6-1-1
+1 = Black back of neck = Black-necked Stilt
+2 = Brown back = Black-necked Stilt J
+3 = White back of neck = Black-winged Stilt
+4 = Short legs = Eurasian Woodcock
+
+6-1-2
+1 = Reddish belly = Hudsonian Godwit
+2 = Gray belly = Hudsonian Godwit J
+
+6-1-3
+1 = Buff with brown dots on breast = Eskimo Curlew
+2 = White with brown dots on breast = Slender-billed Curlew
+
+6-2 Head New
+2 = White with black cap = Arctic Tern
+6 = White with black wash = Arctic Tern J
+7 = Gray
+8 = Dark gray = Oriental Cuckoo J
+9 = Gray brown = Eurasian Collared-Dove
+10 = Black = Fork-tailed Flycatcher
+16 = Brown
+
+6-2-7
+1 = Striped patch on side of neck = Oriental Turtle-Dove
+2 = Gray bars on white breast,  = Common Cuckoo
+3 = Gray bars on white and buff breast = Common Cuckoo F
+4 = Gray bars on buff breast = Oriental Cuckoo
+5 = Very long tail = Scissor-tailed Flycatcher
+
+6-2-16
+1 = Brown rump = Common Cuckoo FM
+2 = Brown rump with barring = Oriental Cuckoo FM
+
+6-3 Back Color
+1 = White
+2 = Black
+3 = Gray
+4 = Brown
+6 = Blue
+
+6-3-1
+1 = Black face = Smew
+2 = White face = Black Guillemot W
+
+6-3-2
+1 = Gold eyebrow = Horned Grebe
+2 = Long Yellow legs, brown face with black cap = Least Bittern R
+3 = Long Yellow legs, gray face = Greater Yellowlegs
+4 = White face with black cap = Sooty Tern
+5 = Black head with white cap = Black Noddy
+6 = White wing patch = Black Guillemot
+
+6-3-3 Cap New
+2 = Black
+4 = Gray
+6 = Brown = Smew F
+20 = Mottled
+
+6-3-3-2 Bill Color
+1 = All black bill
+2 = Red on bill
+3 = Yellow on bill
+4 = Orange on bill = Forster's Tern
+
+6-3-3-2-1
+1 = Gray neck = Horned Grebe W
+2 = Short white forked tail = Gull-billed Tern
+3 = Long white forked tail = Aleutian Tern
+4 = Long dark forked tail = Bridled Tern
+
+6-3-3-2-2
+1 = Black bill, red tip = Roseate Tern
+2 = Red bill, black tip = Common Tern
+
+6-3-3-2-3
+1 = Black bill, yellow tip = Sandwich Tern
+2 = All yellow bill = Large-billed Tern
+
+6-3-3-4
+1 = Mottled neck = Willet
+2 = Black bill with yellow tip = Sandwich Tern W
+3 = Eye in black with gray crown = Roseate Tern J
+4 = Black spot behind eye = Gull-billed Tern W
+5 = White eyeline = Bridled Tern J
+
+6-3-3-20
+1 = Up curved bill, dark shoulder = Common Greenshank
+2 = Up curved bill, no dark shoulder = Common Greenshank J
+
+6-3-4 Leg New
+1 = Black
+2 = Gray = Northern Flicker
+3 = Brown
+4 = Pink = Forster's Tern J
+5 = Red
+6 = Yellow
+
+6-3-4-1
+1 = Brown body, white crown = Brown Noddy
+2 = Brown body, white eyeline = Brown Noddy J
+3 = Yellow eye = Common Grackle
+4 = Solid brown face = Common Grackle F
+5 = Brown face with light eyeline = Boat-tailed Grackle F
+
+6-3-4-3
+1 = Rich brown and black wings = King Rail
+2 = Sooty brown belly = King Rail J
+3 = Grayish brown and dark brown wings = Clapper Rail
+4 = Tawny belly = Clapper Rail M
+
+6-3-4-5
+1 = Dark shoulder patch = Common Tern J
+2 = Brown wash on brow = Aleutian Tern J
+3 = Black body = Sooty Tern J
+
+6-3-4-6
+1 = Brown back = Yellow Bittern
+2 = Black back = Least Bittern
+
+6-3-6
+1 = White belly = Belted Kingfisher
+2 = White breast band, reddish belly, white tail band = Belted Kingfisher F
+3 = All reddish belly = Ringed Kingfisher
+4 = White breast band, reddish belly to tail = Ringed Kingfisher F
+5 = No crest =  Boat-tailed Grackle
+
+6-4 Cap New
+1 = White
+2 = Black
+4 = Gray = Chucker
+6 = Brown
+8 = Blue = Purple Gallinule
+14 = Brown with red eye comb
+15= Gray with red eye comb
+
+6-4-1
+1 = White tail = White-tailed Ptarmigan W
+2 = Brown tail, black eyeline = Rock Ptarmigan W
+3 = Brown tail, no black eyeline = Willow Ptarmigan W
+
+6-4-2
+1 = White face shield, white under tail = American Coot
+2 = White face shield, black under tail = Eurasian Coot
+3 = Back of head gray = Eurasian Jackdaw
+
+6-4-6 Chin New
+1 = White
+2 = Black = Pied-billed Grebe
+6 = Brown
+7 = Tan = Chucker J
+
+6-4-6-1
+1 = Brown wings = Pied-billed Grebe W
+2 = Bluish wings = Purple Gallinule J
+
+6-4-6-6
+1 = Rufous tail band = Spruce Grouse F
+2 = Black outer tail feathers = Willow Ptarmigan F
+1 = Brown belly = Gray Partridge
+2 = White belly = Gray Partridge F
+
+6-4-14
+1 = Black chin = Spruce Grouse
+2 = Brown and white neck = White-tailed Ptarmigan
+3 = Brown neck = Rock Ptarmigan
+4 = Chestnut chin = Willow Ptarmigan
+
+6-4-15
+1 = White tail = White-tailed Ptarmigan F
+2 = Brown tail = Rock Ptarmigan F
+
+6-5 Side Color
+1 = Gray
+2 = Mottled Brown
+3 = Chestnut
+4 = White = Bufflehead
+5 = Chestnut and black = Masked Duck
+
+6-5-1
+1 = Green swash behind eye = Green-winged Teal
+2 = White swash above eye = Garganey
+3 = White cheek patch = Bufflehead F
+4 = White cheek = Ruddy Duck WM
+
+6-5-2 Face Markings
+1 = Brown line through eye, brown cheek
+2 = White crescent = Blue-winged Teal
+3 = White cheek = Garganey F
+4 = White line trailing eye = Mandarin Duck F
+5 = White line below eye = Ruddy Duck F
+
+6-5-2-1
+1 = Green speculum = Green-winged Teal F
+2 = Blue speculum, darker brown from body to cheek = Blue-winged Teal F
+3 = Blue speculum, consistent brown from body to cheek = Cinnamon Teal F
+4 = White speculum = Masked Duck F
+
+6-5-3
+1 = Chestnut face = Cinnamon Teal
+2 = White cheek = Ruddy Duck
+3 = Multi colored body = Mandarin Duck
+
+6-6 Back New
+2 = Black
+3 = Gray
+4 = Brown
+
+6-6-2
+1 = Wide black leading wing edge = Herald Petrel
+2 = Gray under wingtips = Townsend's Shearwater
+3 = Black under wingtips = Manx Shearwater
+
+6-6-3
+1 = White belly = Fea's Petrel
+2 = Gray body, no white under wings = Murphy's Petrel
+3 = Gray body, white and black under wings = Mottled Petrel
+
+6-6-4
+1 = White collar = Black-capped Petrel
+2 = Gray cowl = Bermuda Petrel
+3 = All brown neck = Great-winged Petrel
+4 = Brown wash on chin = Black-vented Shearwater
+5 = White chin, no collar = Cape Verde Shearwater
+
+6-7 Back New
+3 = Gray
+4 = Brown
+7 = Green
+
+6-7-3
+1 = Gray tail, whitish head = Mississippi Kite
+2 = Gray tail, gray head = Mississippi Kite F
+3 = White tail = White-tailed Kite
+4 = Barred Breast = Eurasian Hobby
+5 = Black and white breast = Aplomado Falcon
+
+6-7-4 Cap Color
+20   1 = Barred
+5    2 = Gray
+6   3 = Brown
+
+6-7-4-5
+1 = Brown barred tail = Roadside Hawk
+2 = Gray tail = Eurasian Kestrel
+
+6-7-4-6
+1 = White Breast = Short-tailed Hawk
+2 = Brown Breast = Short-tailed Hawk M
+3 = Brown barred breast = Aplomado Falcon F
+
+6-7-4-20
+1 = Slate gray tail = Mississippi Kite J
+2 = White tail = White-tailed Kite J
+3 = Brown and white barred tail = Eurasian Hobby J
+4 = Brown and black barred tail = Eurasian Kestrel F
+
+6-7-7 Color on Head Besides Green
+1 = Blue
+2 = Black = Nanday Parakeet
+3 = Yellow = Yellow-headed Parrot
+4 = None of the above
+
+6-7-7-1
+1 = White eye = Ringed Parakeet
+2 = Red crown = Red-crowned Parrot
+3 = Lilac blue crown = Lilac-crowned Parrot
+4 = Yellow on cheek = Red-lored Parrot
+5 = Red bill = Rose-ringed Parakeet
+
+6-7-7-4
+1 = Green with a few dots of red = Green Parakeet
+2 = Scattered red on face = Mitred Parakeet
+3 = Face red = Red-masked Parakeet
+
+6-9 Head New
+1 = White = White-crowned Pigeon
+3 = White / Black Dot
+4 = White / Black Collar = Ross's Gull
+7 = Gray
+10 = Black
+20 = Reddish = Red-billed Pigeon
+22 = Green = Eared Quetzal
+
+6-9-3
+1 = Gray wings = Bonaparte's Gull W
+2 = Red bill = Black-headed Gull  W
+3 = Brown speckled face = Black-headed Gull J
+4 = Gray and mottled brown wings = Ross's Gull J
+
+6-9-7
+1 = Red bill with yellow tip = Scaly-naped Pigeon
+2 = Yellow bill with black tip = Band-tailed Pigeon
+3 = Gray or yellow bill = Rock Pigeon
+
+6-9-10
+1 = Red face shield, red bill with yellow tip = Common Gallinule
+2 = All black bill = Bonaparte's Gull
+3 = All red bill = Black-headed Gull
+4 = All black, only at southern tip of Texas = Tamaulipas Crow
+5 = All black, not at southern tip of Texas = Fish Crow
+
+6-12
+Rhinoceros Auklet
+
+6-14 Head
+1 = White = Red-legged Kittiwake
+3 = White / Black Dot = Red-legged Kittiwake J
+6 = White / Black Wash = Franklin's Gull W
+8 = Gray Dark = Rhinoceros Auklet W
+10 = Black
+26 = Mottled = Sabine's Gull J
+
+6-14-10
+1 = Black bill with yellow tip = Sabine's Gull
+2 = Red bill = Franklin's Gull
+
+6-15
+1 = White face, No tufts = Horned Puffin
+2 = Gray face = Horned Puffin W
+3 = White face, gold tufts = Tufted Puffin
+4 = Black face, reddish bill = Tufted Puffin W
+5 = Long tail, smooth bill = Smooth-billed Ani
+6 = Long tail, grooved bill = Groove-billed Ani
+
+6-16
+1 = Long tailed owl = Northern Hawk Owl
+2 = Barred belly = Mottled Owl
+
+7
+7-1 Belly New
+1 = White
+3 = Gray = Solitary Snipe
+7 = Red
+11 = Spotted
+
+7-1-1 Chin Color (8-2)
+1 = White
+7 = Spotted
+
+7-1-1-1
+1 = Up curved bill = Terek Sandpiper
+2 = Light brown throat = Wilson's Phalarope
+3 = Gray eyeline extends down neck = Wilson's Phalarope W
+4 = Black nape = Red Phalarope W
+
+7-1-1-7
+1 = Down curved bill = Little Curlew
+2 = Almost black back = Wilson's Snipe
+3 = White trailing edge of wing, call SKI-APE = Common Snipe
+4 = Dark trailing edge of wing, call SQUAK = Pin-tailed Snipe
+
+7-1-7
+1 = White eyeline = Long-billed Dowitcher
+2 = White face = Red Phalarope
+3 = Large eye = American Woodcock
+
+7-1-11
+1 = Water bird = Short-billed Dowitcher
+2 = Desert bird = Cactus Wren
+
+7-2 Belly New
+1 = White
+2 = Black
+3 = Gray Light
+4 = Gray Dark
+5 = Brown
+6 = Brown Dark
+7 = Red = American Robin
+8 = Blue
+9 = Green = Green Jay
+10 = Yellow
+11 = Spotted
+12 = Stripped = Brown Thrasher
+13 = Scaled
+14 = Barred
+15 = On Water
+
+7-2-1 Back New
+2 = Black
+3 = Gray
+4 = Brown
+5 = Red
+6 = Blue = Mexican Jay
+7 = Green = Northern Lapwing
+9 = Mottled Black/White
+10 = Mottled Black/Brown
+11 = Mottled White/Brown = Upland Sandpiper
+
+7-2-1-2 Bill to Head Ratio
+1 = 1 to <.5
+2 = 1 to .75 = Black Turnstone
+3 = 1 to 1.25 = Rock Sandpiper W
+4 = 1 to 1.5 = Green Sandpiper
+
+7-2-1-2-4
+1 = All black wing = Eastern Kingbird
+2 = Some brown in wing = Aztec Thrush
+
+7-2-1-3 Leg New
+1 = Black
+2 = Gray
+5 = Red = White-winged Tern W
+6 = Yellow
+7 = Sitting on Water
+
+7-2-1-3-1 Bill length (7-2-1-2)
+1 = 1 to <.5 = Scissor-tailed Flycatcher J
+2 = 1 to .75
+3 = 1 to 1.25
+5 = 1 to 1.75 = Curlew Sandpiper W
+
+7-2-1-3-1-2
+1 = Shorebird, bill ¾ length of head = Black-bellied Plover W
+4 = Blue head with white eyeline = Island Scrub-Jay
+5 = Blue head with white brow = Florida Scrub-Jay
+
+7-2-1-3-1-3
+1 = Light dots on flanks = Red Knot W
+2 = White flanks = Dunlin W
+
+7-2-1-3-2
+1 = Black face and brow = Fork-tailed Flycatcher J
+2 = White tipped tail = Loggerhead Kingbird
+3 = Smooth gray head with dark eye mask = Gray Kingbird
+4 = Blue head = Western Scrub-Jay
+
+7-2-1-3-6
+1 = Mottled black and white on throat = Gray-tailed Tattler
+2 = Dark solid gray throat = Purple Sandpiper W
+3 = Light speckled throat = Stilt Sandpiper W
+4 = White throat = Ruff W
+
+7-2-1-3-7
+1 = No collar = Long-billed Murrelet W
+2 = White collar = Marbled Murrelet W
+
+7-2-1-4 Leg New
+2 = Gray
+4 = Pink
+5 = Red
+6 = Yellow
+
+7-2-1-4-2
+1 = Two breast bands = Killdeer
+3 = Reddish brown back = Fieldfare
+
+7-2-1-4-4
+1 = Gray crown with black area behind the eye = Black Tern J
+2 = White eyeline = Eyebrowed Thrush
+
+7-2-1-4-5
+1 = Black and white neck patch = European Turtle-Dove
+2 = Tail with white tips = White-tipped Dove
+3 = Rufous wing = Dusky Thrush
+4 = Reddish “scales” on breast = Dusky Thrush M
+5 = Red armpit of wing = Redwing
+
+7-2-1-4-6
+1 = Black forehead = Mountain Plover
+2 = White eyeline = Mountain Plover J
+3 = Gray bib = Common Sandpiper
+
+7-2-1-5
+1 = White cheek line = Key West Quail-Dove
+2 = Yellow bill = Rufous-backed Robin
+
+7-2-1-9
+1 = Solid dark gray breast = Surfbird W
+2 = Muddy speckled breast = Great Knot J
+3 = Gray spotted breast ends distinctly at white belly = Pectoral Sandpiper
+
+7-2-1-10 Leg New
+1 = Mottled gold overall except white belly = European Golden-Plover J
+3 = Black and white bib that is not mottled = Ruddy Turnstone
+
+7-2-1-10-3
+1 = Light gold face = European Golden-Plover J
+2 = Black on lower breast = Rock Sandpiper
+3 = Dark gray wings, spotted breast = Purple Sandpiper
+
+7-2-1-10-5
+1 = Mostly chestnut on wings = Ruddy Turnstone
+2 = Mostly brown on wings = Ruddy Turnstone J
+
+7-2-1-10-6
+1 = Streaked buff area on breast, black spot in front of eye = Sharp-tailed Sandpiper
+2 = Clean buff area on breast = Sharp-tailed Sandpiper J
+3 = Black on sides of breast = Ruff
+
+7-2-2 Back New
+2 = Black
+3 = Gray
+9 = Mottled black and white = Black-bellied Plover
+10 = Mottled black and brown
+
+7-2-2-2
+1 = Gray wings = White-winged Tern
+2 = Black wings = Eurasian Blackbird
+
+7-2-2-3
+1 = White eyeline = Eurasian Dotterel
+2 = Gray spotty face = Dunlin
+3 = Black head = Black Tern
+
+7-2-2-10
+1 = Black belly extends to tail = American Golden-Plover
+2 = White belly boarder white with black dots = Pacific Golden-Plover
+3 = White belly boarder almost all white = European Golden-Plover
+
+7-2-3 New Back
+3 = Gray
+4 = Brown = White-throated Robin
+6 = Blue = Blue Jay
+9 = Mottled Black/White
+10 = Mottled Black/Brown = Bahama Mockingbird
+
+7-2-3-3 Leg New
+1 = Black
+4 = Pink
+5 = Red = Red-legged Thrush
+
+7-2-3-3-1
+1 = Black wing with white secondaries = Clark's Nutcracker
+2 = Yellow eye, white eyeline = Northern Mockingbird
+
+7-2-3-3-4
+1 = White on trailing edge of wing = Zenaida Dove F
+2 = long diamond tail = Mourning Dove
+3 = White band on wing = White-winged Dove
+
+7-2-3-9
+1 = Dark patch behind eye = American Golden-Plover W
+2 = Smudgy area behind eye = Pacific Golden-Plover W
+
+7-2-4
+1 = White eye ring = Townsend's Solitaire
+2 = Black cap = Gray Catbird
+
+7-2-5 Head New
+7 = Gray = Spotted Dove
+13 = Brown
+26 = Black and brown mottled = Eurasian Dotterel W
+
+7-2-5-13
+1 = White cheek swash = Ruddy Quail-Dove
+2 = White striping under chin = Clay-colored Thrush
+3 = Gray-brown back, orange eye = Bendire's Thrasher
+
+7-2-6
+1 = Shorebird, bill slightly longer than head = Red Knot
+2 = Bill twice as long as head = Curlew Sandpiper
+3 = Pink feet = Zenaida Dove F
+4 = Yellow around eye = Common Myna
+
+7-2-8
+1 = Black face = Steller's Jay
+2 = All blue face = Pinyon Jay
+3 = Black eye patch on blue face = Blue Mockingbird
+
+7-2-10 Breast New
+1 = White = Thick-billed Kingbird
+3 = Light gray
+4 = Dark gray
+10 = Yellow
+11 = Striped = Sulphur-bellied Flycatcher
+
+7-2-10-3
+1 = Brown head = Brown-crested Flycatcher
+2 = Gray head = Western Kingbird
+
+7-2-10-4
+1 = Brown head = Great Crested Flycatcher
+2 = Gray head = Cassin's Kingbird
+
+7-2-10-10
+1 = Mottled back = Buff-breasted Sandpiper
+2 = Bill ¾ length of head, solid gray crown = Tropical Kingbird
+3 = Bill ½ length of head, solid gray crown = Couch's Kingbird
+4 = White eyeline = Great Kiskadee
+
+7-2-11
+1 = Short bi colored bill = Surfbird
+2 = Black area on breast, white belly = Great Knot
+3 = Red and black speckled breast = American Robin J
+4 = Yellow eye, straight bill = Sage Thrasher
+5 = Strongly curved bill = Curve-billed Thrasher
+6 = Glossy dark breast = European Starling
+
+7-2-13
+1 = Chestnut patch in wing = Inca Dove
+2 = White patch in wing = Aztec Thrush J
+
+7-2-14
+1 = Solid gray back, gray mottled face = Wandering Tattler
+2 = Gray face with brown on cheek = Stilt Sandpiper
+3 = Black band on breast = Varied Thrush
+4 = Brown back, rufous belly = Varied Thrush F
+
+7-2-15
+1 = Mottled breast, pale throat = Long-billed Murrelet
+2 = Mottled breast and throat = Marbled Murrelet
+3 = White under wing, black around eye = Xantus's Murrelet
+4 = White around eye = Xantus's Murrelet M
+5 = Gray under wing, black around eye = Craveri's Murrelet
+
+7-3 Back New
+1 = White = Hairy Woodpecker
+2 = Black
+3 = Gray
+4 = Brown
+7 = Green
+8 = Yellow
+9 = Mottled Black/White
+10 = Mottled Black/Brown
+12 = Mottled Orange/black = Streaked-backed Oriole
+13 = Mottled Yellow/black = Streaked-backed Oriole J
+
+7-3-2 Breast New
+1 = White
+2 = Black
+3 = Gray Light = Lewis's Woodpecker
+4 = Gray Dark = Least Grebe
+6 = Striped = Red-breasted Sapsucker
+8 = Speckled
+10 = Yellow
+11 = Spotted
+12 = Striped = Tricolored Blackbird F
+
+7-3-2-1
+1 = All red head = Red-headed Woodpecker
+2 = Red under tail = Great Spotted Woodpecker
+3 = No red = Black-backed Woodpecker
+
+7-3-2-2 White in Wing
+1 = Yes
+2 = No
+
+7-3-2-2-1
+1 = All black with white wing patch = Pigeon Guilemot
+2 = White eye = Acorn Woodpecker
+3 = Mostly white head = White-headed Woodpecker
+4 = Red throat = Williamson's Sapsucker
+5 = All black with white and red wing patch = Tricolored Blackbird
+6 = Yellow belly and no red on head = Scott's Oriole
+
+7-3-2-2-2
+1 = Gold ear tufts = Eared Grebe
+2 = Yellow forehead shield = Northern Jacana
+3 = Red and yellow wing patch = Red-winged Blackbird
+4 = Orange wing patch = Tawny-shoulder Blackbird
+5 = All black with yellow eye = Rusty Blackbird
+6 = Purple glossy head with yellow eye = Brewer's Blackbird
+7 = Yellow belly = Black-vented Oriole
+
+7-3-2-8
+1 = Orange top of head, no orange shoulder patch = Hooded Oriole
+2 = Black head = Baltimore Oriole
+3 = Black crown and eyeline = Bullock's Oriole
+4 = Orange top of head, orange shoulder patch = Altamira Oriole
+
+7-3-2-10
+1 = Yellow head = Yellow-headed Blackbird
+2 = Brown head = Yellow-headed Blackbird F
+3 = Red, white and black head = Red-naped Sapsucker
+
+7-3-2-11
+1 = White belly = Lesser Yellowlegs
+2 = Black body = Spotted Redshank
+3 = Yellow head = Spot-breasted Oriole
+
+7-3-3 Belly Color
+1 = White
+3 = Gray Light
+4 = Gray Dark
+15 = Swimming, can’t see = Eared Grebe W
+
+7-3-3-1
+1 = Red legs = Spotted Redshank W
+2 = Black cap = Least Tern
+3 = Black line behind eye = Least Tern J
+
+7-3-3-3
+1 = Black cap = Whiskered Tern
+2 = Very curved bill, yellow eye = Crissal Thrasher
+3 = Very curved bill, dark eye = Le Conte's Thrasher
+
+7-3-3-4
+1 = Straight black bill, black eye = Rusty Blackbird F
+2 = Straight black bill, yellow eye = Brewer's Blackbird F
+
+7-3-4 Breast New
+3 = Brown Light
+5 = Brown = California Thrasher
+10 = Yellow
+11 = Speckled
+
+7-3-4-3
+1 = Multi colored neck and face = Sungrebe
+2 = Black and white wings = Hoopoe
+
+7-3-4-10
+1 = Drab grown head = Baltimore Oriole J
+2 = Drab grown head with lighter eyeline = Bullock's Oriole J
+3 = Black bib = Black-vented Oriole J
+4 = Yellow-orange head = Altamira Oriole J
+5 = Clean yellow head = Spot-breasted Oriole J
+
+7-3-4-11
+1 = Red legs = Common Redshank
+2 = Red swash on face = Gilded Flicker
+3 = Very curved bill = Long-billed Thrasher
+
+7-3-7
+1 = Rufous breast = Green Kingfisher
+2 = White breast with green stripe = Amazon Kingfisher
+
+7-3-8
+1 = Yellow head, white wing bar = Hooded Oriole J
+2 = Black head, no white wing bar = Audubon's Oriole
+3 = Yellow head, no white wing bar = Audubon's Oriole J
+4 = Black head, white wing bar = Scott's Oriole J
+
+7-3-9 Breast New
+1 = White
+10 = Yellow = Yellow-bellied Sapsucker
+11 = Spotted = Spotted Rail
+12 = Striped = Red-winged Blackbird F
+
+7-3-9-1
+1 = Water bird = Pigeon Guilemot W
+2 = Yellow on back of head = Golden-fronted Woodpecker
+3 = Red on back of head = Red-bellied Woodpecker
+4 = No yellow or black on head = Gila Woodpecker
+5 = Black on back of head = Red-cockaded Woodpecker
+
+7-3-10 Breast New
+1 = White = Three-toed Woodpecker
+2 = Black = Virginia Rail J
+4 = Brown = Virginia Rail
+10 = Yellow
+
+7-3-10-10
+1 = Yellow chin, Song “see-you-see-yeeer” = Eastern Meadowlark
+2 = Yellow chin, Song is flute like = Western Meadowlark
+
+7-4 Back New
+1 = White = Masked Tityra
+2 = Black
+3 = Gray
+4 = Brown
+5 = Red
+8 = Yellow
+9 = Mottled Black/White = Sora J
+10 = Mottled Black/Brown
+
+7-4-2 Black and white body only (Y-N)
+1 = Yes
+2 = No
+
+7-4-2-1
+1 = Black bill = Dovekie
+2 = Dark neck, red bill = Parakeet Auklet
+3 = Dark neck = Crested Auklet
+
+7-4-2-2
+1 = White belly = Rose-breasted Grosbeak
+2 = Orange breast = Black-headed Grosbeak
+3 = Red back of head = Crimson-collared Grosbeak
+4 = Blackish breast = Bronzed Cowbird
+
+7-4-3
+1 = Scaled breast = Scaled Quail
+2 = Various gray shaded areas of body parts = Gray Jay
+3 = Red tipped crest, red on belly = Pyrrhuloxia
+4 = Red tipped crest, gray belly = Pyrrhuloxia F
+5 = Uniform gray-brown body and wings = Bronzed Cowbird F
+6 = Yellow-orange head = Pine Grosbeak M
+
+7-4-4 Breast New
+1 = White = Rose-breasted Grosbeak J
+3 = Light Gray
+4 = Dark Gray = Mountain Quail
+5 = Brown
+11 = Spotted
+12 = Striped = Rose-breasted Grosbeak F
+13 = Dot = Canyon Towhee
+
+7-4-4-3
+1 = Black throat = California Quail
+2 = Spotted brown throat = California Quail F
+
+7-4-4-5
+1 = Tear drop crest = Gambel's Quail
+2 = Round body, white throat = Montezuma Quail F
+3 = Solid brownish body, black at base of bill = California Towhee
+4 =  Solid brownish body, brown at base of bill = Abert's Towhee
+5 = Brown wing with wide white patch = Black-headed Grosbeak F
+6 = Brown wing with narrow white patch = Black-headed Grosbeak J
+7 = Triangular crest = Northern Cardinal F
+
+7-4-4-11
+1 = Tear drop crest = Gambel's Quail F
+2 = White eyeline = Northern Bobwhite
+3 = No crest = Northern Bobwhite F
+
+7-4-5
+1 = Red-brown wings = Hepatic Tanager
+2 = Black wings = Scarlet Tanager
+3 = Red crest = Northern Cardinal
+4 = Gray and black wings = Pine Grosbeak
+
+7-4-8
+1 = Yellow-brown wings, yellow face = Hepatic Tanager F
+2 = Black wings = Scarlet Tanager F
+3 = Black face = Crimson-collared Grosbeak F
+4 = Brown and white wings = Yellow Grosbeak
+5 = Gray breast = Pine Grosbeak F
+
+7-4-10
+1 = Brown breast = Montezuma Quail
+2 = Black and gray breast = Sora
+3 = Gray breast = Corn Crake
+
+7-6 Belly New
+1 = White
+2 = Black = Band-rumped Storm-Petrel
+6 = Brown Dark
+
+7-6-1
+1 = Light gray back and top of head = Cook's Petrel
+2 = Light gray back, dark top of head, no neck band = Stejneger's Petrel
+3 = Gray trailing edge upper wing = Little Shearwater
+4 = All dark upper wing = Audubon's Shearwater
+5 = Black band on neck = Ringed Storm-Petrel
+
+7-6-6
+1 = Wedge shaped tail = Bulwer's Petrel
+2 = Slight gray areas in wings, forked tail = Black Storm-Petrel
+3 = Distinct gray areas in wings = Tristram's Storm-Petrel
+
+7-7 Back New
+3 = Gray
+4 = Brown
+7 = Green
+
+7-7-3
+1 = Reddish brown barring on breast, red eye = Sharp-shinned Hawk
+2 = Brown striping on breast, black eye = Merlin
+3 = Slate gray body, black eye with red eye ring = Red-footed Falcon
+4 = Black eye band, clean white breast = Loggerhead Shrike
+5 = Black eye band, light barring on breast = Northern Shrike
+
+7-7-4
+1 = Brown striped back of head, yellow eye = Sharp-shinned Hawk F
+2 = Silver-gray wings = American Kestrel
+3 = Brown wings, two dark facial stripes = American Kestrel F
+4 = Brown wings, no dark facial stripes, dark eye = Merlin F
+
+7-7-7
+1 = White and yellow wing patches = White-winged Parakeet
+2 = Yellow wing patches, no white on wing = Yellow-chevroned Parakeet
+3 = White belly = Monk Parakeet
+4 = Red spots on face = Orange-winged Parrot
+5 = Blue on nape and face = White-eyed Parakeet
+
+7-9 Back New
+3 = Gray
+4 = Brown
+7 = Green = Elegant Trogon
+10 = Mottled Black/Brown
+
+7-9-3
+1 = Forked tail = Oriental Pratincole
+2 = Black head = Little Gull
+3 = Black wash on head = Little Gull W
+4 = Buff collar on back of neck = Buff-collared Nightjar
+5 = All gray back of neck = Gray Nightjar
+
+7-9-4
+1 = Black behind eye = Mangrove Cuckoo
+2 = Yellow at base of bill, brown behind eye = Yellow-billed Cuckoo
+3 = Red eye ring = Black-billed Cuckoo
+4 = White belly, buff chin = Black-billed Cuckoo J
+5 = Wide white bib = Common Pauraque
+6 = Narrow white bib = Mexican Whip-poor-will
+
+7-9-10
+1 = Tail has four dark stripes = Lesser Nighthawk
+2 = White chin goes to bill = Common Nighthawk
+3 = Tail has three dark stripes = Antillean Highthawk
+4 = Solid brown tail with white side ends = Chuck-will's-widow
+5 = Solid gray tail with white side ends = Eastern Whip-poor-will
+
+7-11
+Hill Myna
+
+7-14
+1 = Gray Neck = Cassin's Auklet
+2 = Mottled brown and white = Kittlitz's Murrelet
+3 = Eye in white = Kittlitz's Murrelet W
+4 = Eye in black, white tufts = Ancient Murrelet
+5 = Eye in black, non distinct tufts = Ancient Murrelet W
+
+7-15
+1 = White face = Atlantic Puffin
+2 = Gray face = Atlantic Puffin W
+
+7-16
+1 = Rich reddish-brown color = Eastern Screech-Owl RM
+2 = Ear tufts, yellowish bill = Eastern Screech-Owl GM
+3 = Ear tufts, gray bill = Western Screech-Owl
+4 = Solid gray face = Brown Hawk-Owl
+5 = Barred breast, spotted forehead = Boreal Owl
+6 = Long legs, on or near ground = Burrowing Owl
+
+8
+8-1
+1 = Red back of neck = Red-necked Phalarope
+2 = White face with black eye patch = Red-necked Phalarope W
+3 = Round body, strong facial stripes = Jack Snipe
+4 = Large Hummingbird = Magnificent Hummingbird
+5 = Mottled brown head with white eyeline = Brown Creeper
+6 = Brown belly = Canyon Wren
+
+8-2 Chin New
+1 = White
+2 = Black
+3 = Gray
+4 = Yellow
+5 = Red
+6 = Brown Dark
+7 = Brown Light
+8 = Blue
+9 = Spotted
+10 = Streaked
+
+8-2-1 Back New
+1 = White = Downy Woodpecker
+2 = Black
+3 = Gray
+4 = Brown
+6 = Blue
+7 = Green
+8 = Yellow
+9 = Mottled Black/White = Black-and-white Warbler F
+10 = Mottled Black/Brown
+11 = Mottled White/Brown
+14 = Mottled Black/Gray = Yellow-rumped Warbler R
+
+8-2-1-2
+1 = Yellow breast = Narcissus Flycatcher F
+2 = Black breast = White Wagtail
+
+8-2-1-3 Breast New
+1 = White
+2 = Black = White Wagtail W
+3 = Light Gray
+4 = Dark Gray = Bohemian Waxwing J
+10 = Yellow
+11 = Spotted = Rufous-tailed Robin
+
+8-2-1-3-1
+1 = Black legs, solid gray back = Snowy Plover
+2 = Bi colored bill = Piping Plover
+3 = Black bill, orange legs = Piping Plover W
+4 = Black legs, mottled gray back = Sanderling W
+5 = Gray Tuft = Tufted Titmouse
+6 = Black on tuft = Black-crested Titmouse
+7 = White Tuft = Gray Silky-flycatcher
+
+8-2-1-3-3
+1 = Yellow underside of bill = Gray Flycatcher
+2 = Solid gray wings = Gray Vireo
+3 = White “eye glasses” = Plumbeous Vireo
+4 = Solid brown wings = Brown-backed Solitaire
+
+8-2-1-3-10
+1 = White eyeline = Gray Wagtail F
+2 = Black eye patch = Olive Warbler F
+
+8-2-1-4 Breast New
+1 = White
+3 = Light Gray
+4 = Dark Gray = Black-headed Nightingale-Thrush
+5 = Brown
+6 = Red = Lesser Sand-Plover
+10 = Yellow
+11 = Spotted
+12 = Striped
+
+8-2-1-4-1 Legs New
+1 = Black
+2 = Gray
+3 = Brown = Red-flanked Bluetail F
+4 = Pink
+5 = Red = Wilson's Plover
+6 = Yellow
+
+8-2-1-4-1-1
+1 = Shorebird = Lesser Sand-Plover W
+2 = 2 wing bars = La Sagra's Flycatcher
+3 = Brown breast band = Brown-chested Martin
+4 = Dark green wings = Bahama Swallow
+5 = Brown crest = Red-whiskered Bulbul
+
+8-2-1-4-1-2
+1 = Shorebird = Greater Sand- Plover
+2 = Solid greenish-brown head = Olive-sided Flycatcher
+3 = Almond shaped eye ring = Asian Brown Flycatcher
+4 = Gray cap with white cheek = Lesser Whitethroat
+
+8-2-1-4-1-4
+1 = Black band through cap = Little Ringed Plover
+2 = Thin black collar on back of neck only = Little Ringed Plover J
+3 = Cap and back are different brown colors = Swainson's Warbler
+
+8-2-1-4-1-6
+1 = Medium breast band with white between chin and band= Semipalmated Plover
+2 = Wide breast band up to chin = Common Ringed Plover
+
+8-2-1-4-3
+1 = Gray-black head = Eastern Phoebe
+2 = Rufous-brown under tail = Nutting's Flycatcher
+3 = Gray-brown under tail = Dusky-capped Flycatcher
+4 = White eyeline = Bewick's Wren
+5 = Orange bill = Orange-billed Nightingale-Thrush
+
+8-2-1-4-5 Face Markings
+1 = Solid Face
+2 = Eye Ring
+3 = Eyeline
+
+8-2-1-4-5-1
+1 = Small crest = Greater Pewee
+2 = Bi colored bill = Western Wood-Pewee
+3 = Distinct two wing bars = Willow Flycatcher
+
+8-2-1-4-5-2
+1 = Call “che-bek” = Least Flycatcher
+2 = Call “peek” = Hammond's Flycatcher
+3 = Call “sillit” = Dusky Flycatcher
+4 = Call “Psee-yeet” = Pacific-slope Flycatcher
+5 = Call “pit peet” = Cordilleran Flycatcher
+6 = Brown back has no yellow tones, red throat = Taiga Flycatcher J
+7 = Brown back has no yellow tones, white throat = Dark-sided Flycatcher
+
+8-2-1-4-5-3
+1 = White belly and very bright white eyeline = Yucatan Vireo
+2 = Reddish-brown belly = Carolina Wren
+3 = Orange bill = Dusky Warbler
+4 = Light gray-brown back = Northern Wheatear F
+5 = Mottled brown back = Stonechat F
+
+8-2-1-4-10
+1 = Bright yellow breast and belly = Social Flycatcher
+2 = Gray-blue cap = Yellow-green Vireo
+3 = Brown breast band = Eastern Yellow Wagtail J
+4 = Solid face = Pine Warbler F
+
+8-2-1-4-11
+1 = Shorebird by river = Spotted Sandpiper J
+2 = Perching bird = Sinaloa Wren
+
+8-2-1-4-12
+1 = Brown and white speckled breast = Vermilion Flycatcher J
+2 = Brown-black cap = Piratic Flycatcher
+3 = Reddish brown rump = Middendorff's Grasshopper-Warbler
+4 = Rufous base of outer tail feathers = Bluethroat F
+5 = Off white belly = American Pipit W
+6 = Reddish-brown cap = Palm Warbler R
+
+8-2-1-6
+1 = White face with brown at front of eye = Tree Swallow
+2 = White face = White-breasted Nuthatch
+3 = Blue face = Red-flanked Bluetail
+
+8-2-1-7 Cap New
+4 = Light Gray
+5 = Dark Gray = Philadelphia Vireo
+6 = Brown
+9 = Green
+
+8-2-1-7-4
+1 = Black line above white eyeline = Red-eyed Vireo
+2 = Black whisker line on face = Black-whiskered Vireo
+3 = Yellow in tale = American Redstart F
+
+8-2-1-7-6
+1 = Partial eye ring = Cuban Pewee
+2 = Full eye ring = Alder Flycatcher
+3 = Dark green wings and back = Violet-green Swallow
+
+8-2-1-7-9
+1 = White eyeline = Greenish Elaenia
+2 = No eye ring, greenish-brown back = Eastern Wood-Pewee
+3 = White throat. White eye ring = Acadian Flycatcher
+4 = Yellow throat = Yellow-bellied Flycatcher
+5 = Iridescent Green back = Mangrove Swallow
+
+8-2-1-8
+1 = Black behind eye = Gray-collared Becard
+2 = Yellow face with white eyeline = Warbling Vireo
+
+8-2-1-10 Leg New
+1 = Black
+2 = Gray = Veriegated Flycatcher
+3 = Brown = Temminck's Stint
+4 = Pink
+5 = Red = Blackpoll Warbler F
+6 = Yellow
+
+8-2-1-10-1 Breast Spots Color
+1 = Black
+2 = Brown
+3 = Breast solid brown = Bay-breasted Warbler F
+
+8-2-1-10-1-1
+1 = Bill slightly shorter than head = Semipalmated Sandpiper
+2 = Chestnut on cheek and crown = Western Sandpiper
+3 = White rump = White-rumped Sandpiper
+4 = Bill 1.5 times as long as head = Broad-billed Sandpiper
+5 = Yellow rump = Yellow-rumped Warbler F
+
+8-2-1-10-1-2
+1 = Gray-brown wash on breast = Red-necked Stint J
+2 = Chestnut spots on breast = Little Stint
+3 = Gray wash and brown spots on breast = Baird's Sandpiper
+
+8-2-1-10-4
+1 = Dark spot near ear = Tree Pipit
+2 = White flank = Sprague's Pipit
+3 = Grayish-brown back with darker dashes = Olive-backed Pipit
+
+8-2-1-10-6
+1 = Dark spotted breast = Least Sandpiper
+2 = Light spotted breast, almost a was = Long-toed Stint
+
+8-2-1-11
+1 = Black legs = Snowy Plover J
+2 = Barred breast, white outer tail feathers = Sky Lark
+3 = Barred breast, no white outer tail feathers  = Pechora Pipit
+4 = Buffy neck = Red-throated Pipit J
+
+8-2-2 Back New
+2 = Black
+3 = Gray
+4 = Brown
+6 = Blue
+7 = Green = Hooded Warbler
+9 = Mottled Black/White = Black-and-white Warbler
+10 = Mottled Black/Brown
+14 = Mottled Black/Gray = Hermit Warbler
+
+8-2-2-2
+1 = Black wings = Black Phoebe
+2 = Yellow face = Golden-cheeked Warbler
+3 = Orange-red in wings = American Redstart
+4 = Red belly = Painted Redstart
+
+8-2-2-3 Cap New
+2 = Black
+5 = Gray Dark
+6 = Brown
+21 = Black Stripe = Bridled Titmouse
+
+8-2-2-3-2
+1 = No white eyeline = Black-capped Chickadee
+2 = White eyeline = Mountain Chickadee
+
+8-2-2-3-5
+1 = White breast = Gray-headed Chickadee
+2 = Yellow breast = Gray Wagtail
+
+8-2-2-3-6
+1 = White belly = Boreal Chickadee
+2 = Brown tuft = Bohemian Waxwing
+
+8-2-2-4
+1 = Brown tuft = Cedar Waxwing
+2 = Gray hood, partial no eye ring = Mourning Warbler
+3 = Gray hood, partial white eye ring = MacGillivray's Warbler
+4 = White eyeline = Rufous-capped Warbler
+5 = Black breast = Painted Redstart J
+
+8-2-2-6
+1 = Crested = Phainopepla
+2 = White breast = Black-throated Blue Warbler
+3 = Red breast = Slate-throated Redstart
+
+8-2-2-10
+1 = Black cheek = Stonechat
+2 = White cheek = Blackpoll Warbler
+
+8-2-3
+3 = Gray
+4 = Brown
+6 = Blue
+9 = Mottled Black/White
+
+8-2-3-3
+1 = White = Gray-breasted Martin
+3 = Light Gray
+4 = Dark Gray
+5 = Brown
+8 = Blue
+
+8-2-3-3-3
+1 = Long tail = Wrentit
+2 = Crested = Juniper Titmouse
+
+8-2-3-3-4
+1 = Two white wing bars = White-crested Elaenia
+2 = All very dark gray = American Dipper
+
+8-2-3-3-5
+1 = Scaled breast = Common Ground-Dove
+2 = Solid gray breast = Say's Phoebe
+
+8-2-3-3-8
+1 = White eye ring = Mountain Bluebird F
+2 = Crested = Phainopepla F
+
+8-2-3-4
+1 = Two white wing bars = Ash-throated Flycatcher
+2 = Gray belly = Crowned Slaty Flycatcher
+3 = Solid gray head, no eye ring = Mourning Warbler F
+4 = Solid gray head, split eye ring = MacGillivray's Warbler F
+5 = Solid gray head, complete eye ring = Connecticut Warbler
+
+8-2-3-6
+1 = Gray breast, white belly = Cuban Martin
+2 = Gray belly and breast = Southern Martin
+3 = Red breast = Western Bluebird F
+
+8-2-3-9
+1 = White eyeline = Wood Sandpiper
+2 = Black wing with tiny white dots = Solitary Sandpiper
+
+8-2-4 Breast New
+2 = Black = Yellow-rumped Warbler
+4 = Dark Gray = Connecticut Warbler F
+5 = Brown
+10 = Yellow
+11 = Spotted = Eastern Yellow Wagtail
+12 = Striped
+
+8-2-4-5
+1 = White eyeline above dark mask = Northern Wheatear
+2 = Brown dashes on flank = Red-throated Pipit
+3 = Two stripes on face = Worm-eating Warbler
+4 = Dark gray back = Fan-tailed Warbler
+
+8-2-4-10
+2 = Black = Narcissus Flycatcher
+3 = Gray = Citrine Wagtail
+4 = Brown
+6 = Blue = Yellow-throated Warbler
+7 = Green
+14 = Mottled Black/Gray = Kirkland's Warbler
+15 = Mottled Brown/Gray = Siberian Accentor
+
+8-2-4-10-4
+1 = Yellow spectacles = Yellow-throated Vireo
+2 = All yellow head = Prothonotary Warbler
+3 = Light brown top of head, no wing bars = Prothonotary Warbler F
+4 = Light gray crown = Gray-crowned Yellowthroat
+5 = White spectacles = Yellow-breasted Chat
+
+8-2-4-10-7
+1 = Partial eye ring = Thick-billed Vireo
+2 = Black dashes on flank = Pine Warbler
+3 = Black stripe under eye = Kentucky Warbler
+4 = Black throat = Hooded Warbler F
+5 = Yellow face with green cap = Hooded Warbler J
+
+8-2-4-12
+1 = Black bib = Horned Lark
+2 = Tan belly = American Pipit
+3 = Chestnut cap = Palm Warbler
+4 = Black dashes on breast = Canada Warbler
+5 = Gray dashes on breast = Canada Warbler F
+
+8-2-5
+1 = Black back with red cap = Vermillion Flycatcher
+2 = Long forked tail = Barn Swallow
+3 = Gray face with white eye ring = Taiga Flycatcher
+4 = White line from bill to eye = Siberian Rubythroat
+5 = Blue Back = Eastern Bluebird
+6 = Silver-gray back = Red-faced Warbler
+
+8-2-6
+1 = Red head with dark red throat = Sanderling
+2 = Red head with throat the same red = Red-necked Stint
+3 = Dark blue cap, pale tawny above bill = Cliff Swallow
+4 = Black face, dark brown cap = Bay-breasted Warbler
+5 = Black eye patch, light brown head = Olive Warbler
+
+8-2-7
+1 = Gray face = Ruddy Ground-Dove
+2 = Dark blue cap, red above bill = Cave Swallow
+3 = White patch behind eye = Mugimaki Flycatcher
+4 = White eyeline = Black-throated Blue Warbler F
+
+8-2-8
+1 = Very dark blue everything = Purple Martin
+2 = Breast red, blue, black and brown = Bluethroat
+3 = Red breast = Western Bluebird
+4 = Sky blue breast = Mountain Bluebird
+
+8-2-9 Back New
+2 = Black = Spotted Sandpiper
+4 = Brown
+10 = Mottled Black/Brown = Kirkland's Warbler J
+11 = Mottled White/Brown = Eastern Bluebird J
+14 = Mottled Black/Gray = Eurasian Wryneck
+
+8-2-9-4 Facial Features (8-2-1-4-5)
+1 = Solid Face
+2 = Eye Ring
+3 = Eyeline
+
+8-2-9-4-1
+1 = White belly = Siberian Blue Robin
+2 = Dashed belly = Ovenbird
+
+8-2-9-4-2
+1 = Red brown back, dark spots on breast = Wood Thrush
+2 = Light red-brown back, light spots on breast = Veery
+3 = Consistent gray-brown back, partial eye ring = Gray-checked Thrush
+4 = Consistent brown back, partial eye ring = Bicknell's Thrush
+5 = Consistent gray-brown back, complete eye ring = Swainson's Thrush
+6 = Redder tail than back = Hermit Thrush
+7 = Dashes throughout belly = Song Thrush
+
+8-2-9-4-3
+1 = light buff butt and under tail = Louisiana Waterthrush
+2 = White butt and under tail = Northern Waterthrush
+
+8-2-10
+1 = Speckled gray back = Rock Wren
+2 = Consistent gray from bill to tail tip = Spotted Flycatcher
+3 = White eye ring = Gray-streaked Flycatcher
+4 = Brown tuft = Cedar Waxwing J
+5 = Yellow face = Golden-cheeked Warbler F
+
+8-3
+1 = Brown back, white belly, wading bird = Marsh Sandpiper
+2 = Black back with white spots, tan black spotted breast = Ladder-backed Woodpecker
+3 = Black back with white spots, white breast = Nuttall's Woodpecker
+4 = Solid brown back, speckled breast = Arizona Woodpecker
+5 = Chestnut breast = Orchard Oriole
+6 = Yellow breast = Orchard Oriole J
+
+8-4 Back New
+1 = White = McKay's Bunting
+2 = Black
+3 = Gray
+4 = Brown
+5 = Red
+6 = Blue
+7 = Green
+8 = Yellow = Summer Tanager F
+9 = Mottled Black/White
+10 = Mottled Black/Brown
+12 = Mottled Orange/Black = Flame-colored Tanager
+13 = Mottled Yellow/Black = Flame-colored Tanager F
+14 = Mottled Black/Gray
+15 = Mottled Brown/Gray
+16 = Mottled Brown/Red
+
+8-4-2 Breast New
+1 = White
+2 = Black
+7 = Orange
+10 = Yellow = Western Tanager
+12 = Striped = Seaside Sparrow
+14 = Mottled Black/White = Least Auklet
+15 = Mottled Brown/White = Fox Sparrow R
+
+8-4-2-1
+1 = Water bird = Least Auklet W
+2 = Long pointed wings = White-throated Swift
+3 = All white head = Snow Bunting
+
+8-4-2-2 Belly New
+1 = White
+2 = Black
+3 = Mottled
+
+8-4-2-2-1
+1 = Upper wing solid black = Eastern Towhee
+2 = Upper wing white spots on black = Spotted Towhee
+
+8-4-2-2-2
+1 = Red bill, white tufts behind eye = Whiskered Auklet
+2 = Red bill, no white tufts behind eye = Whiskered Auklet W
+3 = All black, black bill = Black Swift
+4 = White collar = White-collared Swift
+5 = Forked tail = Fork-tailed Swift
+6 = White wing patch = Lark Bunting
+
+8-4-2-2-17
+1 = Brown patch on neck = Black Rail
+2 = Gray cap = Black Rosy-Finch
+
+8-4-2-7
+1 = White stripes on face = Western Spindalis
+2 = Black face = Brambling
+
+8-4-3 Breast New
+3 = Light Gray
+5 = Brown
+6 = Red = Eurasian Bullfinch
+11 = Spotted = Fox Sparrow
+13 = Dot
+
+8-4-3-3
+1 = Red on throat = Rose-throated Becard
+2 = White outer tail feathers = Dark-eyed Junco R
+
+8-4-3-5
+1 = White outer tail feathers = Dark-eyed Junco R
+2 = White butt = Eurasian Bullfinch F
+
+8-4-3-13
+1 = Dark gray head = Sage Sparrow
+2 = Light gray head = Sage Sparrow R
+
+8-4-4 Breast New
+1 = White
+2 = Black = White-throated Needletail
+3 = Light Gray
+5 = Brown
+6 = Red
+8 = Blue = Brown-headed Cowbird F
+10 = Yellow = Yellow-breasted Bunting
+12 = Striped
+13 = Dot = Five-striped Sparrow
+15 = Mottled Brown/White
+
+8-4-4-1
+1 = Black head = Dark-eyed Junco
+2 = Chestnut brown back, gray side = Dark-eyed Junco R
+3 = Gray head, brown side = Dark-eyed Junco R
+
+8-4-4-3
+1 = Red and yellow bill = Paint-billed Crake
+2 = White outer tail feathers = Yellow-eyed Junco
+
+8-4-4-5 Chin New
+1 = White
+2 = Black = Gray-crowned Rosy-Finch R
+6 = Brown Dark
+7 = Brown Light
+
+8-4-4-5-1
+1 = Forked tail = Common Swift
+2 = Chestnut patch on wing = Blue Grosbeak F
+3 = White eye ring = Varied Bunting F
+4 = Gray face = Evening Grosbeak F
+
+8-4-4-5-6
+1 = Body and wings consistent brown = Blue Bunting F
+2 = Yellow wing patch = Oriental Greenfinch
+3 = White wing patch = Evening Grosbeak
+
+8-4-4-5-7
+1 = Very short tail = Chimney Swift
+2 = Blue shoulder patch = Lazuli Bunting F
+3 = Brown overall, lighter eyeline = Shiny Cowbird F
+4 = White shoulder patch = Common Chaffinch F
+
+8-4-4-6
+1 = White shoulder patch and wing bar = Common Chaffinch
+2 = Pink in wings, gray nape = Gray-crowned Rosy-Finch
+3 = Pink in wings, black nape = Brown-capped Rosy-Finch
+4 = Brown cap = Hawfinch
+
+8-4-4-12
+1 = Blue shoulder patch = Indigo Bunting F
+2 = Yellow wing patch = Oriental Greenfinch J
+
+8-4-4-15
+1 = Light brown eyeline = Olive Sparrow J
+2 = Dark spots on breast = Fox Sparrow R
+
+8-4-5
+1 = All red body = Summer Tanager
+2 = Purple face = Varied Bunting
+3 = White under butt = Common Rosefinch
+
+8-4-6
+1 = Brown wing bars = Blue Grosbeak
+2 = Mid blue body and wings = Indigo Bunting
+3 = Reddish brown breast = Lazuli Bunting
+4 = Blackish-blue breast = Blue Bunting
+5 = Iridescent purple head = Shiny Cowbird
+6 = Brown head = Brown-headed Cowbird F
+
+8-4-7
+1 = Yellow lower back = Western Tanager F
+2 = Brown line through eye = Olive Sparrow
+3 = Chestnut cap = Green-tailed Towhee
+4 = Red belly = Painted Bunting
+5 = Back consistent green from bill to end of tail = Painted Bunting F
+
+8-4-9
+1 = Back more brown than white = Snow Bunting F
+2 = White wing with dark tip = McKay's Bunting F
+3 = Red cap = Hoary Redpoll
+
+8-4-10 Breast New
+1 = White
+2 = Black
+3 = Gray light
+5 = Brown
+10 = Yellow
+11 = Spotted
+12 = Striped
+13 = Dot
+14 = Mottled Black/White
+15 = Mottled Brown/White
+16 = Mottled Black/Brown = Chestnut-collared Longspur W
+
+8-4-10-1
+1 = Brown, black and white scaled neck = Yellow Rail J
+2 = Rufous striped cap = Rufous-winged Sparrow
+3 = Chestnut with white edged feathers in wings = Baird's Sparrow
+4 = Black bib, pink bill = Harris's Sparrow
+5 = Black bib, black bill = Reed Bunting
+6 = Gray head = Reed Bunting J
+
+8-4-10-2
+1 = Gray-brown back of head = Black-throated Sparrow
+2 = Chestnut back of head = Lapland Longspur
+3 = Yellow back of head = Bobolink
+
+8-4-10-3 Cap New
+4 = Light Gray
+10 = Yellow = Golden-crowned Sparrow
+11 = Chestnut
+17 = 5 Stripe = White-throated Sparrow
+19 = Tiny Stripe
+
+8-4-10-3-4
+1 = Chestnut on side of head = House Sparrow
+2 = Gray side of head = House Sparrow F
+
+8-4-10-3-11
+1 = White face with line going through eye = Chipping Sparrow
+2 = Gray side of face = Worthen's Sparrow
+
+8-4-10-3-19
+1 = White outer tail feathers = Cassin's Sparrow
+2 = Black patch on shoulder = Field Sparrow
+3 = Almost black line through eye = Brewer's Sparrow
+
+8-4-10-5 Cap New
+2 = Black
+6 = Brown = Eastern Towhee J
+11 = Chestnut = Eurasian Tree Sparrow
+19 = Tiny Stripe
+20 = Mottled
+
+8-4-10-5-2
+1 = Chestnut on nape = Chestnut-collared Longspur
+2 = Gold-brown breast = Smith's Longspur
+
+8-4-10-5-19
+1 = Black stripe through eye = Yellow Rail
+2 = Two white wing bars = Clay-colored Sparrow
+3 = Gold-brown belly = Smith's Longspur F
+
+8-4-10-5-20
+1 = White butt = Brambling F
+2 = Brown butt = Eurasian Tree Sparrow F
+
+8-4-10-10
+1 = White under tail = Yellow-breasted Bunting F
+2 = Yellow under tail = Bobolink F
+
+8-4-10-11 Legs New
+1 = Black = Black-throated Sparrow J
+3 = Brown
+4 = Pink
+
+8-4-10-11-3
+1 = Chestnut cheek with black trim top and bottom = Lark Sparrow J
+2 = Yellow at base of bill = Seaside Sparrow J
+3 = Chestnut shoulder patch = Reed Bunting F
+4 = Cheek patch solid brown gray, no yellow at bill base = Purple Finch F
+5 = Cheek patch has striping brown gray, no yellow at bill base = Cassins's Finch F
+
+8-4-10-11-4
+1 = White eye ring = Rufous-winged Sparrow J
+2 = Dashed chestnut back = Yellow-eyed Junco J
+3 = Brown and black scaled chin = Pine Bunting
+4 = Gray-brown collar, white chin = Gray Bunting F
+5 = Strong white eyeline = Yellow-browed Bunting
+
+8-4-10-12 Legs New
+2 = Gray = Green-tailed Towhee J
+3 = Brown
+4 = Pink
+6 = Yellow = Chipping Sparrow J
+
+8-4-10-12-3
+1 = Brown chin = Spotted Towhee J
+2 = White chin = White-throated Sparrow J
+
+8-4-10-12-4
+1 = Yellow in front of eye = Savannah Sparrow
+2 = Brown wash on brown striped breast, white eye ring = Lincoln's Sparrow
+3 = Gray wash on brown striped breast = Song Sparrow
+4 = White eyeline with no yellow = Song Sparrow R (C)
+5 = Slate tail with white outer tail feathers = Dark-eyed Junco J
+
+8-4-10-13
+1 = Gray belly = American Tree Sparrow
+2 = White belly = Lark Sparrow
+
+8-4-10-14
+1 = Black chin = Harris's Sparrow J
+2 = White chin = Lapland Longspur F
+
+8-4-10-15
+1 = Black Cheek = Rustic Bunting
+2 = Brown Cheek = Rustic Bunting F
+
+8-4-14 Breast New
+4 = Dark Gray = Gray Bunting
+10 = Yellow
+11 = Spotted = Bachman's Sparrow J
+12 = Striped = Song Sparrow R
+15 = Mottled Brown/White = Black Rosy-Finch F
+
+8-4-14-10
+1 = Call is a variable trill = Bachman's Sparrow
+2 = Call “tisp” or “che-lik” = Botteri's Sparrow
+3 = Black bib = Dickcissel
+
+8-4-15 Leg New
+1 = Black
+2 = Gray = Yellow-throated Bunting
+3 = Brown
+4 = Pink
+5 = Red
+6 = Yellow
+
+8-4-15-1
+1 = Gray nape = Gray-crowned Rosy-Finch F
+2 = Brown head = Gray-crowned Rosy-Finch J
+3 = Brown nap, black brow = Brown-capped Rosy-Finch F
+4 = Red cap, red breast = Common Redpoll
+5 = Red cap, brown striped breast = Common Redpoll F
+
+8-4-15-3 Breast New
+2 = Black = McCown's Longspur
+3 = Light Gray
+6 = Red = House Finch
+10 = Yellow = House Finch V
+12 = Striped
+14 = Mottled Black/White = Lark Bunting W
+15 = Mottled Brown/White = McCown's Longspur F
+
+8-4-15-3-3
+1 = Arid habitat bird = Rufous-crowned Sparrow
+2 = Wetlands habitat bird = Swamp Sparrow
+
+8-4-15-3-12
+1 = Rich brown overall = Golden-crowned Sparrow J
+2 = Light gray-brown overall = House Finch F
+
+8-4-15-4
+1 = Faint yellow in front of eye = Savannah Sparrow R (I)
+2 = Chestnut patch on shoulder = Vesper Sparrow
+
+8-4-15-5
+1 = Black chin = Black-chinned Sparrow
+2 = Gray chin = Black-chinned Sparrow J
+
+8-4-15-6
+1 = Black stripes on head = White-crowned Sparrow
+2 = Brown stripes on head = White-crowned Sparrow J
+
+8-4-16
+1 = Dark pink in wing = Purple Finch
+2 = Light pink in wing = Cassins's Finch
+
+8-6 White Rump (Y or N)
+1 = Yes
+2 = No
+
+8-6-1
+1 = White patch under wing, black flanks = European Storm-Petrel
+2 = White rump extends under tail = Wilson's Storm-Petrel
+3 = “V” shaped tail = Leach's Storm-Petrel
+4 = White on rump extends into tail = Wedge-rumped Storm-Petrel
+5 = White flanks = Black-bellied Storm-Petrel
+
+8-6-2
+1 = White breast = White-faced Storm-Petrel
+2 = Gray body with consistent gray face = Ashy Storm-Petrel
+3 = All dark brown with wedge tail = Least Storm-Petrel
+4 = Body light gray with black mask = Fork-tailed Storm-Petrel
+5 = All dark brown with forked tail = Swinhoe's Strom-Petrel
+
+8-7
+1 = Yellow face = Budgerigar
+2 = Red face = Rosy-faced Lovebird
+3 = Black eye mask = Brown Shrike
+
+8-9
+Common Poorwill
+
+8-13
+1 = Reddish-brown head = Spoonbill Sandpiper
+2 = White neck = Spoonbill Sandpiper W
+
+8-16 Ear Tufts Yes or No
+1 = Yes
+2 = No
+
+8-16-1
+1 = White breast with vertical stripes = Oriental Scops-Owl
+2 = Mottled breast, yellow eyes = Whiskered Screech-Owl
+3 = Black eyes = Flammulated Owl
+
+8-16-2
+1 = False eye, striped cap = Ferruginous Pygmy-Owl
+2 = Black edge of orbital disk = Elf Owl
+3 = False eye, spoted cap = Northern Pygmy-Owl
+4 = Bark bill color = Northern Saw-whet Owl
+
+8-17 White Wing Bar Yes or No
+1 = Yes
+2 = No
+
+8-17
+1 = Red breast = Red Crossbill
+2 = Yellow breast = Red Crossbill F
+3 = Striped breast = Red Crossbill J
+
+8-17
+1 = Red breast = White-winged Crossbill
+2 = Yellow breast = White-winged Crossbill F
+3 = Striped breast = White-winged Crossbill J
+
+9
+9-1
+1 = White
+3 = Gray light
+5 = Brown
+7 = Orange = Cinnamon Hummingbird
+8 = Blue
+9 = Green
+12 = Striped
+
+9-1-1 Belly New
+1 = White
+5 = Brown
+3 = Green
+
+9-1-1-1 Throat New
+1 = White
+8 = Blue = Bumblebee Hummingbird
+9 = Spotted = Black-chinned Hummingbird F
+10 = Streaked = Calliope Hummingbird
+11 = Purple
+12 = Violet
+
+9-1-1-1-1
+1 = Red bill = Violet-crowned Hummingbird
+2 = Down curved bill = Lucifer Hummingbird F
+3 = Strait black bill = Costa's Hummingbird F
+
+9-1-1-1-11
+1 = Strait bill = Lucifer Hummingbird
+2 = Down curved bill = Costa's Hummingbird
+
+9-1-1-1-12
+1 = Violet throat = Broad-tailed Hummingbird
+2 = Speckled violet throat = Rufous Hummingbird F
+
+9-1-1-5
+1 = White throat = Bahama Woodstar F
+2 = Rufous back = Rufous Hummingbird
+3 = Green back, violet cheek = Allen's Hummingbird
+
+9-1-1-9
+1 = Violet chin = Ruby-throated Hummingbird
+2 = Black chin = Black-chinned Hummingbird
+3 = Violet head = Anna's Hummingbird
+
+
+9-1-3
+1 = Blue throat = Blue-throated Hummingbird
+2 = White patch on side of rump = Plain-capped Starthroat
+3 = Speckled violet throat = Anna's Hummingbird F
+
+9-1-5
+1 = Black eyeline, black forehead = Xantus's Hummingbird
+2 = Black eyeline, gold forehead = Xantus's Hummingbird F
+3 = Dark green back, no rufous in tail = Ruby-throated Hummingbird F
+4 = Dark green back, rufous in tail = Broad-tailed Hummingbird F
+5 = Yellowish-green back = Calliope Hummingbird F
+
+9-1-8
+1 = Blue belly = Green Violet-ear
+2 = Green belly = Green Violet-ear J
+
+9-1-9
+1 = Purple under tail = Green-breasted Mango
+2 = Tan belly = Buff-bellied Hummingbird
+3 = Rufous in wings = Berylline Hummingbird
+4 = White breast band = Bahama Woodstar
+5 = White under tail coverts = Broad-billed Hummingbird
+6 = Light gray belly = White-eared Hummingbird
+
+9-1-12
+1 = Green and white breast = Green-breasted Mango F
+2 = Green, chestnut and white breast = Green-breasted Mango J
+
+9-2 Back New
+2 = Black
+3 = Gray
+4 = Brown
+6 = Blue
+7 = Green
+8 = Yellow
+9 = Mottled Black/White
+10 = Mottled Black/Brown
+11 = Mottled White/Brown = Sedge Wren
+13 = Mottled Yellow/Black
+14 = Mottled Black/Gray
+17 = Mottled Green/Black
+
+9-2-2
+1 = Yellow throat = Magnolia Warbler
+2 = Orange throat = Blackburnian Warbler
+3 = White throat = Bananaquit
+
+9-2-3 Chin New
+1 = White
+2 = Black
+3 = Gray
+4 = Yellow = Verdin
+
+9-2-3-1
+1 = Yellow breast patch = Virginia's Warbler
+2 = Tan belly = Virginia's Warbler J
+3 = Chestnut butt = Lucy's Warbler
+4 = Orange butt = Lucy's Warbler J
+
+9-2-3-2
+1 = Black cap, yellow flank = Carolina Chickadee
+2 = Black cap, gray flank = Mexican Chickadee
+3 = Yellow wing bars = Golden-winged Warbler
+
+9-2-3-3
+1 = Gray tuft = Oak Titmouse
+2 = Gray cap, no tuft = Bushtit
+3 = Dark cap = California Gantcatcher
+4 = Yellow cap = Golden-winged Warbler R
+
+9-2-4 Chin New
+1 = White
+2 = Black
+3 = Gray = Bell's Vireo WC
+4 = Yellow
+6 = Brown Dark = Pacific Wren
+7 = Brown Light = Winter Wren
+10 = Streaked = Orange-crowned Warbler
+13 = Green = Arctic Warbler
+
+9-2-4-1 Leg New
+1 = Black
+4 = Pink
+6 = Yellow = Collared Plover
+
+9-2-4-1-1
+1 = Light tan back = Northern Beardless-Tyrannulet
+2 = Brown breast band = Bank Swallow
+3 = Face all brown = Northern Rough-winged Swallow
+4 = Blue-gray cap = Tennessee Warbler
+
+9-2-4-1-4
+1 = Dark rump = House Wren
+2 = White wing bar = Yellow-browed Warbler
+3 = White rump, no wing bar = Willow Warbler
+
+9-2-4-2
+1 = Black cap = Chestnut-backed Chickadee
+2 = Brown-green cap = Black-throated Green Warbler
+
+9-2-4-4 Eye Ring
+1 = Yes
+2 = No
+
+9-2-4-4-1
+1 = Olive shaped eye ring = Buff-breasted Flycatcher
+2 = White spectacles = Bell's Vireo
+3 = Black breast = Bachman's Warbler
+4 = Yellow face below eye, no wing bar = Bachman's Warbler F
+5 = Gray face below eye = Nashville Warbler F
+
+9-2-4-4-2
+1 = White eyeline = Tennessee Warbler F
+2 = Black line below eye = Prairie Warbler
+3 = Brown line below eye = Prairie Warbler F
+
+9-2-6
+2 = Black
+5 = Gray Dark = Pygmy Nuthatch
+6 = Brown = Brown-headed Nuthatch
+8 = Blue
+9 = Green = Cerulean Warbler F
+
+9-2-6-2
+1 = White eyeline = Red-breasted Nuthatch
+2 = Eye surrounded by black = Black-capped Gnatcatcher
+3 = Bottom of eye in white = Black-tailed Gnatcatcher
+
+9-2-6-8
+1 = White butt = Common House-Martin
+2 = White eye ring = Blue-gray Gnatcatcher
+3 = Striping on flank = Cerulean Warbler
+
+9-2-7 Cap New
+2 = Black
+4 = Light Gray
+5 = Dark Gray
+6 = Brown
+8 = Blue
+9 = Green
+10 = Yellow = Blue-winged Warbler
+16 = 3 Stripe = Golden-crowned Warbler
+17 = 5 Stripe
+
+9-2-7-2
+1 = White Breast = Black-capped Vireo
+2 = Yellow Breast = Wilson's Warbler
+
+9-2-7-4
+1 = White eye ring = Nashville Warbler
+2 = White eyeline = Crescent-chested Warbler J
+
+9-2-7-5
+1 = White chin = White-eyed Vireo
+2 = Black barring on chin = Cape May Warbler F
+
+9-2-7-6
+1 = Gray face = Colima Warbler
+2 = Brown face = Yellow Warbler Mangrove
+
+9-2-7-8
+1 = White “Spectacles” = Blue-headed Vireo
+2 = Partial eye ring = Northern Parula
+3 = No eye ring = Tropical Parula
+
+9-2-7-9 Chin New
+1 = White
+3 = Gray = Ruby-crowned Kinglet
+4 = Yellow
+14 = Orange = Tufted Flycatcher
+
+9-2-7-9-1
+1 = Partial eye ring = Hutton's Vireo
+2 = White “Spectacles”  = Cassin's Vireo
+3 = Eyeline = Cerulean Warbler J
+
+9-2-7-9-4
+1 = Yellow eyeline = Wood Warbler
+2 = Chestnut breast band = Crescent-chested Warbler
+3 = Black bandit mask = Common Yellowthroat
+4 = Green-brown face = Common Yellowthroat F
+
+9-2-7-17
+1 = White eyeline = Golden-crowned Kinglet
+2 = Yellow eyeline = Pallas's Leaf-Warbler
+
+9-2-8
+1 = Red stripes on breast = Yellow Warbler
+2 = Slight red stripes on breast = Yellow Warbler F
+3 = Clean single color breast = Yellow Warbler J
+
+9-2-9
+1 = Brown-black cap = Marsh Wren
+2 = yellow cap = Chestnut-sided Warbler
+
+9-2-10
+1 = Barring on flank = Lanceolated Warbler
+2 = Brown wash on flank = Sedge Warbler
+
+9-2-13
+1 = Black eye patch = Townsend's Warbler
+2 = Brown eye patch = Townsend's Warbler F
+
+9-2-14
+1 = Black-throat = Black-throated Gray Warbler
+2 = Yellow throat = Grace's Warbler
+
+9-2-17
+1 = Chestnut face patch = Cape May Warbler
+2 = Gray-black face patch = Magnolia Warbler F
+
+9-4 New Back
+2 = Black = Lesser Goldfinch
+3 = Gray = Lawrence's Goldfinch
+4 = Brown
+5 = Red = Orange Bishop
+7 = Green
+8 = Yellow = American Goldfinch
+9 = Mottled Black/White = Pallas's Bunting
+10 = Mottled Black/Brown
+11 = Mottled White/Brown = Henslow's Sparrow
+12 = Mottled Orange/Black = Saltmarsh Sharp-tailed Sparrow
+13 = Mottled Yellow/Black
+15 = Mottled Brown/Gray = Nelson's Sharp-tailed Sparrow
+17 = Mottled Green/Black = Eurasian Siskin F
+18 = Mottled Black/White/Brown = Le Conte's Sparrow
+
+9-4-4 Chin New
+1 = White = Antillean Palm Swift
+2 = Black = Black-faced Grassquit
+3 = Gray = Black-faced Grassquit F
+4 = Yellow
+6 = Brown Dark = Nutmeg Mannikin
+7 = Brown Light
+
+9-4-4-4
+1 = Black breast = Yellow-faced Grassquit
+2 = Gray-brown breast = Yellow-faced Grassquit F
+3 = Golden-brown back = American Goldfinch F
+4 = Light gray cheek = Lawrence's Goldfinch F
+5 = Brown back with brown striping = Lawrence's Goldfinch J
+
+9-4-4-7
+1 = Very short tail = Vaux's Swift
+2 = White eye ring = White-collared Seedeater J
+3 = Heavy black bill = Nutmeg Mannikin J
+
+9-4-7
+1 = Yellow wing bar = Eurasian Siskin
+2 = No black on head = Lesser Goldfinch F
+3 = Black cap = Lesser Goldfinch GB
+4 = Black brow, yellow belly = Lesser Goldfinch J
+
+9-4-10
+1 = Black face = White-collared Seedeater
+2 = No barring on flank = Grasshopper Sparrow
+3 = Chestnut face = Little Bunting
+4 = Light brown face = Orange Bishop J
+
+9-4-13
+1 = Chin brown stripes on white = Pine Siskin
+2 = Chin brown stripes on yellow = Pine Siskin J
