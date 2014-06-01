@@ -30,29 +30,3 @@
 15 Very thick
 16 Short hooked
 17 Crossed bill
-
-[BillColorVar]
-0 Not Set
-1 Yellow bill
-2 Orange bill
-
-[HeadColorVar]
-0 Not Set
-1 White
-2 Dark brown
-3 Yellow
-4 Stripped
-5 Mottled
-
-[BackColorVar]
-0 Not Set
-1 White
-2 Black
-3 Gray
-4 Brown
-5 Blue
-6 Mottled Black/White
-7 Mottled Brown/Gray
-
-[birds]
-1-12-0-0-0

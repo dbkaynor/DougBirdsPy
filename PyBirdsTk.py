@@ -12,6 +12,14 @@ from ToolTip import ToolTip
 import __main__ as main
 from inspect import currentframe, getframeinfo
 
+from DougModules import SearchPath
+from DougModules import MyTrace
+from DougModules import MyMessageBox
+from DougModules import Logger
+from DougModules import ParseCommandLine
+from DougModules import StartFile
+
+
 Main = tkinter.Tk()
 #------------------------------
 class Vars():
@@ -21,33 +29,17 @@ class Vars():
     LogFileNameVar = StringVar()
     BirdFileNameVar = StringVar()
     StatusVar = StringVar()
-
     BirdInfoList = []
-
     SizeVar = IntVar()
     BillShapeVar = IntVar()
-    ColorVar = IntVar()
-    HeadColorVar = IntVar()
-    BillColorVar = IntVar()
-    BackColorVar = IntVar()
-#------------------------------
-#LogLevel 0 is log everything
-def Logger(LogMessage, FrameInfoDict, LogLevel = 0, ShowInStatus = False, PrintToCommandLine = False):
-    MyLogger = logging.getLogger(Vars.LogFileNameVar.get())
-    mystr = LogMessage + ' Module:' + str(FrameInfoDict[0]) +  '  Line:' + str(FrameInfoDict[1])
-    MyLogger.debug(mystr)
-    if PrintToCommandLine: print(mystr)
-    if ShowInStatus: Vars.StatusVar.set(LogMessage)
-'''
-debug, info,warning, error, critical, log, exception
-'''
+
 #------------------------------
 #Initialize the program
 def StartUpStuff():
     #-- Lots of startup stuff ------------------------------------
     Vars.StartUpDirectoryVar.set(os.getcwd())
-    Vars.AuxDirectoryVar.set(Vars.StartUpDirectoryVar.get() + '\\auxfiles')
-    Vars.HelpFileVar.set(Vars.AuxDirectoryVar.get() + '\\PyBirds.hlp')
+    Vars.AuxDirectoryVar.set(os.path.join(Vars.StartUpDirectoryVar.get(),'auxfiles','.'))
+    Vars.HelpFileVar.set(os.path.join(Vars.AuxDirectoryVar.get(), 'PyBirdsTk.hlp'))
 
     SetUpLogger()
     ParseCommandLine()
@@ -109,7 +101,7 @@ def StartFile(filename, arg1='', arg2='', arg3=''):
     try:
         ce = subprocess.call(args)
     except OSError:
-        tkMessageBox.showerror('StartFile did a Badddddd thing ' , \
+        tkMessageBox.showerror('StartFile did a Badddddd thing ' ,
          'Arguments: ' + str(args) + '\nReturn code: ' + str(ce))
         return
 #------------------------------
@@ -128,7 +120,8 @@ def Help():
     try:
         f = open(Vars.HelpFileVar.get(), 'r')
     except IOError:
-        tkinter.messagebox.showerror('Help file error', 'Requested file does not exist.\n>>' + Vars.HelpFileVar.get() + '<<')
+        tkinter.messagebox.showerror('Help file error',
+        'Requested file does not exist.\n>>' + Vars.HelpFileVar.get() + '<<')
         return
     lines = f.readlines()
     f.close()
@@ -148,67 +141,46 @@ def ViewLog():
 
 menubar = Menu(Main)
 Main['menu'] = menubar
-SizeMenu = Menu(menubar)
-menubar.add_cascade(menu=SizeMenu, label='Size')
-SizeMenu.add_radiobutton(label='Not set', variable=Vars.SizeVar, value=0)
-SizeMenu.add_radiobutton(label='Huge (Like Swan 30"+)', variable=Vars.SizeVar, value=1)
-SizeMenu.add_radiobutton(label='Very large (Like Double-crested Cormorant 25"-34")', variable=Vars.SizeVar, value=2)
-SizeMenu.add_radiobutton(label='Large (Like Hawk 21"-29")', variable=Vars.SizeVar, value=3)
-SizeMenu.add_radiobutton(label='Medium large (Peregrine Falcon 17"-24")', variable=Vars.SizeVar, value=4)
-SizeMenu.add_radiobutton(label='Medium (Like crow 15"-20")', variable=Vars.SizeVar, value=5)
-SizeMenu.add_radiobutton(label='Medium small (Like flicker 11-17)', variable=Vars.SizeVar, value=6)
-SizeMenu.add_radiobutton(label='Small (Like Robin 7"-14")', variable=Vars.SizeVar, value=7)
-SizeMenu.add_radiobutton(label='Very small (Like Sparrow 5"-9")', variable=Vars.SizeVar, value=8)
-SizeMenu.add_radiobutton(label='Tiny (Like Hummingbird <5)', variable=Vars.SizeVar, value=9)
-
-BillMenu = Menu(menubar)
-menubar.add_cascade(menu=BillMenu, label='Bill shape')
-BillMenu.add_radiobutton(label='Not set', variable=Vars.BillShapeVar, value=0)
-BillMenu.add_radiobutton(label='Thin', variable=Vars.BillShapeVar, value=1)
-BillMenu.add_radiobutton(label='Short pointed', variable=Vars.BillShapeVar, value=2)
-BillMenu.add_radiobutton(label='Long pointed', variable=Vars.BillShapeVar, value=3)
-BillMenu.add_radiobutton(label='Conical', variable=Vars.BillShapeVar, value=4)
-BillMenu.add_radiobutton(label='Duck', variable=Vars.BillShapeVar, value=5)
-BillMenu.add_radiobutton(label='Tube nosed', variable=Vars.BillShapeVar, value=6)
-BillMenu.add_radiobutton(label='Hooked', variable=Vars.BillShapeVar, value=7)
-BillMenu.add_radiobutton(label='Huge', variable=Vars.BillShapeVar, value=8)
-BillMenu.add_radiobutton(label='Straight down curved', variable=Vars.BillShapeVar, value=9)
-BillMenu.add_radiobutton(label='Wedge down curve', variable=Vars.BillShapeVar, value=10)
-BillMenu.add_radiobutton(label='Triangular', variable=Vars.BillShapeVar, value=11)
-BillMenu.add_radiobutton(label='Knobbed', variable=Vars.BillShapeVar, value=12)
-BillMenu.add_radiobutton(label='Spooned', variable=Vars.BillShapeVar, value=13)
-BillMenu.add_radiobutton(label='Straight point tip', variable=Vars.BillShapeVar, value=14)
-BillMenu.add_radiobutton(label='Very thick', variable=Vars.BillShapeVar, value=15)
-BillMenu.add_radiobutton(label='Short hooked', variable=Vars.BillShapeVar, value=16)
-BillMenu.add_radiobutton(label='Crossed bill', variable=Vars.BillShapeVar, value=17)
-
-OtherMenu = Menu(menubar)
-menubar.add_cascade(menu=OtherMenu, label='Other')
-OtherMenu.add_radiobutton(label='---- Bill color ----')
-OtherMenu.add_radiobutton(label='Not set', variable=Vars.BillColorVar, value=0)
-OtherMenu.add_radiobutton(label='Yellow bill', variable=Vars.BillColorVar, value=1)
-OtherMenu.add_radiobutton(label='Orange bill', variable=Vars.BillColorVar, value=2)
-OtherMenu.add_radiobutton(label='---- Head color ---- ')
-OtherMenu.add_radiobutton(label='Not set', variable=Vars.HeadColorVar, value=0)
-OtherMenu.add_radiobutton(label='White', variable=Vars.HeadColorVar, value=1)
-OtherMenu.add_radiobutton(label='Dark brown', variable=Vars.HeadColorVar, value=2)
-OtherMenu.add_radiobutton(label='Yellow', variable=Vars.HeadColorVar, value=3)
-OtherMenu.add_radiobutton(label='Stripped', variable=Vars.HeadColorVar, value=4)
-OtherMenu.add_radiobutton(label='Mottled', variable=Vars.HeadColorVar, value=5)
-OtherMenu.add_radiobutton(label='---- Back color ----')
-OtherMenu.add_radiobutton(label='Not set', variable=Vars.BackColorVar, value=0)
-OtherMenu.add_radiobutton(label='White', variable=Vars.BackColorVar, value=1)
-OtherMenu.add_radiobutton(label='Black', variable=Vars.BackColorVar, value=2)
-OtherMenu.add_radiobutton(label='Gray', variable=Vars.BackColorVar, value=3)
-OtherMenu.add_radiobutton(label='Brown', variable=Vars.BackColorVar, value=4)
-OtherMenu.add_radiobutton(label='Blue', variable=Vars.BackColorVar, value=5)
-OtherMenu.add_radiobutton(label='Mottled Black/White', variable=Vars.BackColorVar, value=6)
-OtherMenu.add_radiobutton(label='Mottled Brown/Gray', variable=Vars.BackColorVar, value=7)
 
 HelpMenu = Menu(menubar)
 menubar.add_cascade(menu=HelpMenu, label='Help')
 HelpMenu.add_command(label='About', command=About)
 HelpMenu.add_command(label='Help', command=Help)
+
+SizeFrame = Frame(Main, relief=SUNKEN, bd=2)
+SizeFrame.pack(side=LEFT, fill=X)
+BillShapeFrame = Frame(Main, relief=SUNKEN, bd=2)
+BillShapeFrame.pack(side=LEFT, fill=X)
+
+Radiobutton(SizeFrame, text='Not set', variable=Vars.SizeVar, value=0).pack(anchor=W)
+Radiobutton(SizeFrame, text='Huge (Like Swan 30"+', variable=Vars.SizeVar, value=1).pack(anchor=W)
+Radiobutton(SizeFrame, text='Very large (Like Double-crested Cormorant 25"-34")', variable=Vars.SizeVar, value=2).pack(anchor=W)
+Radiobutton(SizeFrame, text='Large (Like Hawk 21"-29")', variable=Vars.SizeVar, value=3).pack(anchor=W)
+Radiobutton(SizeFrame, text='Medium large (Peregrine Falcon 17"-24")', variable=Vars.SizeVar, value=4).pack(anchor=W)
+Radiobutton(SizeFrame, text='Medium (Like crow 15"-20")', variable=Vars.SizeVar, value=5).pack(anchor=W)
+Radiobutton(SizeFrame, text='Medium small (Like flicker 11-17)', variable=Vars.SizeVar, value=6).pack(anchor=W)
+Radiobutton(SizeFrame, text='Small (Like Robin 7"-14")', variable=Vars.SizeVar, value=7).pack(anchor=W)
+Radiobutton(SizeFrame, text='Very small (Like Sparrow 5"-9")', variable=Vars.SizeVar, value=8).pack(anchor=W)
+Radiobutton(SizeFrame, text='Tiny (Like Hummingbird <5)', variable=Vars.SizeVar, value=9).pack(anchor=W)
+
+Radiobutton(BillShapeFrame, text='Not set', variable=Vars.BillShapeVar, value=0).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Thin', variable=Vars.BillShapeVar, value=1).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Short pointed', variable=Vars.BillShapeVar, value=2).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Long pointed', variable=Vars.BillShapeVar, value=3).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Conical', variable=Vars.BillShapeVar, value=4).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Duck', variable=Vars.BillShapeVar, value=5).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Tube nosed', variable=Vars.BillShapeVar, value=6).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Hooked', variable=Vars.BillShapeVar, value=7).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Huge', variable=Vars.BillShapeVar, value=8).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Straight down curved', variable=Vars.BillShapeVar, value=9).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Wedge down curve', variable=Vars.BillShapeVar, value=10).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Triangular', variable=Vars.BillShapeVar, value=11).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Knobbed', variable=Vars.BillShapeVar, value=12).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Spooned', variable=Vars.BillShapeVar, value=13).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Straight point tip', variable=Vars.BillShapeVar, value=14).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Very thick', variable=Vars.BillShapeVar, value=15).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Short hooked', variable=Vars.BillShapeVar, value=16).pack(anchor=W)
+Radiobutton(BillShapeFrame, text='Crossed bill', variable=Vars.BillShapeVar, value=17).pack(anchor=W)
 
 def Search(Section,value):
     Start = False
@@ -226,18 +198,12 @@ def Search(Section,value):
 def Doit():
     ResultsListbox.insert(END, Search('SizeVar', Vars.SizeVar.get()))
     ResultsListbox.insert(END, Search('BillShapeVar', Vars.BillShapeVar.get()))
-    ResultsListbox.insert(END, Search('BillColorVar', Vars.BillColorVar.get()))
-    ResultsListbox.insert(END, Search('HeadColorVar', Vars.HeadColorVar.get()))
-    ResultsListbox.insert(END, Search('BackColorVar', Vars.BackColorVar.get()))
 
 def ClearAll():
     ResultsListbox.delete(0,END)
     Vars.SizeVar.set(0)
     Vars.BillShapeVar.set(0)
-    Vars.ColorVar.set(0)
-    Vars.HeadColorVar.set(0)
-    Vars.BillColorVar.set(0)
-    Vars.BackColorVar.set(0)
+
 
 #--------Results display--------
 Statuslabel = Label(Main, textvariable=Vars.StatusVar, relief=GROOVE)

@@ -1,36 +1,5 @@
 Bird ID Program
 
-Base Questions 1-1 to 9-9
-Question 1 Size
-1 = Huge, Like Swan  30”+
-2 = Very Large, Like Double-crested Cormorant 25” – 34”
-3 = Large, Like Hawk  21” – 29”
-4 = Medium Large, Like Peregrine Falcon 17” – 24”
-5 = Medium, Like Crow  15” – 20”
-6 = Medium Small, Like Flicker  11” – 17”
-7 = Small, Like Robin  7” – 14”
-8 = Very Small, Like Sparrow 5” – 9”
-9 = Tiny, Like Hummingbird <5”
-
-Question 2 Bill Shape New
-1 = Thin
-2 = Short Pointed
-3 = Long Pointed
-4 = Conical
-5 = Duck
-6 = Tube Nosed
-7 = Hooked
-8 = Huge
-9 = Straight down curved
-10 = Wedge down curve
-11 = Triangular
-12 = Knobbed
-13 = Spooned
-14 = Straight Point tip
-15 = Very thick
-16 = Short hooked
-17 = Crossed bill
-
 Level 2 Questions
 1
 1-2 Head New
